@@ -39,10 +39,22 @@ footer {
 .logo {
     font-size: 20px;
     font-weight: bold;
-    margin-right: 20px;
 }
 
 .nav-item .fa,
 .nav-item .fab {
     font-size: 25px;
+}
+
+
+.download-section figcaption {
+    margin: 10px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.logo a {
+    text-decoration: none;
+    margin-left: 10px;
+    color: #444;
 }
