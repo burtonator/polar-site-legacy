@@ -5,6 +5,10 @@
     margin: auto;
 }
 
+.navbar-brand {
+    margin-right: 10px;
+}
+
 .subtitle h2 {
     font-size: 25px !important;
 }
@@ -55,6 +59,5 @@ footer {
 
 .logo a {
     text-decoration: none;
-    margin-left: 10px;
     color: #444;
 }
