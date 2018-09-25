@@ -20,6 +20,6 @@
     "cookieconsent": "^3.1.0"
   },
   "devDependencies": {
-    "gulp-handlebars": "^5.0.2"
+    "gulp": "^3.9.1"
   }
 }
