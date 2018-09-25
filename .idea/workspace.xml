@@ -25,8 +25,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8f24d8ef-44fb-4fe5-b629-6a67a48a57be" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/screenshots/gen-dropshadow.sh" beforeDir="false" afterPath="$PROJECT_DIR$/assets/screenshots/gen-dropshadow.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/screenshots/pdf-loaded-understanding-cryptography-shadow.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/screenshots/pdf-loaded-understanding-cryptography-shadow.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -81,23 +79,23 @@
           <entry key="Bash" value="3" />
           <entry key="css" value="102" />
           <entry key="hbs" value="20" />
-          <entry key="html" value="4696" />
+          <entry key="html" value="4711" />
           <entry key="js" value="32" />
           <entry key="json" value="2" />
           <entry key="mustache" value="239" />
           <entry key="sh" value="331" />
-          <entry key="txt" value="691" />
+          <entry key="txt" value="766" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Bash" value="334" />
           <entry key="CSS" value="102" />
-          <entry key="HTML" value="4716" />
+          <entry key="HTML" value="4731" />
           <entry key="Handlebars/Mustache" value="239" />
           <entry key="JSON" value="2" />
           <entry key="JavaScript" value="32" />
-          <entry key="PLAIN_TEXT" value="691" />
+          <entry key="PLAIN_TEXT" value="766" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -161,20 +159,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="101" column="15" selection-start-line="101" selection-start-column="15" selection-end-line="101" selection-end-column="15" />
+            <state relative-caret-position="663">
+              <caret line="126" column="95" lean-forward="true" selection-start-line="126" selection-start-column="95" selection-end-line="126" selection-end-column="95" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/screenshots/gen-dropshadow.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+            <state relative-caret-position="187">
+              <caret line="11" column="62" lean-forward="true" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -225,6 +223,7 @@
       <find>unders</find>
       <find>background</find>
       <find>transp</find>
+      <find>logo.</find>
     </findStrings>
     <replaceStrings>
       <replace>draggable=&quot;false&quot;</replace>
@@ -260,8 +259,8 @@
         <option value="$PROJECT_DIR$/cookie-policy.mustache" />
         <option value="$PROJECT_DIR$/gen.sh" />
         <option value="$PROJECT_DIR$/partials/footer.mustache" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/assets/screenshots/gen-dropshadow.sh" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -310,7 +309,7 @@
               <item name="polar-site" type="b2602c69:ProjectViewProjectNode" />
               <item name="polar-site" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="screenshots" type="462c0819:PsiDirectoryNode" />
+              <item name="logo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="polar-site" type="b2602c69:ProjectViewProjectNode" />
@@ -397,7 +396,7 @@
       <workItem from="1537890132758" duration="977000" />
       <workItem from="1537894508227" duration="217000" />
       <workItem from="1537894827919" duration="596000" />
-      <workItem from="1537903454200" duration="2247000" />
+      <workItem from="1537903454200" duration="3299000" />
     </task>
     <task id="LOCAL-00001" summary="... getting there..">
       <created>1536972804336</created>
@@ -560,11 +559,25 @@
       <option name="project" value="LOCAL" />
       <updated>1537904692304</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="this is better than the default image for now...">
+      <created>1537906087348</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1537906087348</updated>
+    </task>
+    <task id="LOCAL-00025" summary="must use the PNg for now">
+      <created>1537906290072</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1537906290072</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45187000" />
+    <option name="totallyTimeSpent" value="46239000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="551" y="143" width="1742" height="1268" extended-state="0" />
@@ -2243,7 +2256,9 @@
     <MESSAGE value="all files should be ok" />
     <MESSAGE value="..." />
     <MESSAGE value="new image on the front page so it loads faster..." />
-    <option name="LAST_COMMIT_MESSAGE" value="new image on the front page so it loads faster..." />
+    <MESSAGE value="this is better than the default image for now..." />
+    <MESSAGE value="must use the PNg for now" />
+    <option name="LAST_COMMIT_MESSAGE" value="must use the PNg for now" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/screenshots/annotations.png">
@@ -2399,17 +2414,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/assets/screenshots/gen-dropshadow.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="101" column="15" selection-start-line="101" selection-start-column="15" selection-end-line="101" selection-end-column="15" />
+        <state relative-caret-position="187">
+          <caret line="11" column="62" lean-forward="true" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/screenshots/gen-dropshadow.sh">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+        <state relative-caret-position="663">
+          <caret line="126" column="95" lean-forward="true" selection-start-line="126" selection-start-column="95" selection-end-line="126" selection-end-column="95" />
         </state>
       </provider>
     </entry>
