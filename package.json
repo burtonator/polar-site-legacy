@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/burtonator/polar-site#readme",
   "dependencies": {
-    "cookieconsent": "^3.1.0"
+    "cookieconsent": "^3.1.0",
+    "gulp-handlebars": "^5.0.2",
+    "handlebars": "^4.0.12"
   },
   "devDependencies": {
     "gulp": "^3.9.1"
