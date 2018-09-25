@@ -23,7 +23,7 @@
     <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f24d8ef-44fb-4fe5-b629-6a67a48a57be" name="Default Changelist" comment="">
+    <list default="true" id="8f24d8ef-44fb-4fe5-b629-6a67a48a57be" name="Default Changelist" comment="...">
       <change afterPath="$PROJECT_DIR$/cookie-policy.mustache" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/privacy-policy.mustache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gen.sh" beforeDir="false" afterPath="$PROJECT_DIR$/gen.sh" afterDir="false" />
@@ -42,7 +42,7 @@
     <session id="1237626177">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.11" value="1" />
@@ -88,7 +88,7 @@
           <entry key="json" value="2" />
           <entry key="mustache" value="146" />
           <entry key="sh" value="287" />
-          <entry key="txt" value="608" />
+          <entry key="txt" value="612" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -99,7 +99,7 @@
           <entry key="Handlebars/Mustache" value="146" />
           <entry key="JSON" value="2" />
           <entry key="JavaScript" value="32" />
-          <entry key="PLAIN_TEXT" value="608" />
+          <entry key="PLAIN_TEXT" value="612" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -112,8 +112,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gen.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+            <state relative-caret-position="323">
+              <caret line="19" column="46" lean-forward="true" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -380,7 +380,7 @@
       <workItem from="1537886361267" duration="1647000" />
       <workItem from="1537888098647" duration="62000" />
       <workItem from="1537888214283" duration="3000" />
-      <workItem from="1537889253869" duration="740000" />
+      <workItem from="1537889253869" duration="857000" />
     </task>
     <task id="LOCAL-00001" summary="... getting there..">
       <created>1536972804336</created>
@@ -526,7 +526,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41033000" />
+    <option name="totallyTimeSpent" value="41150000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="551" y="146" width="1518" height="1265" extended-state="0" />
@@ -2376,8 +2376,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gen.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        <state relative-caret-position="323">
+          <caret line="19" column="46" lean-forward="true" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
         </state>
       </provider>
     </entry>
