@@ -16,4 +16,4 @@ run_template() {
 
 run_template terms-of-service
 run_template privacy-policy
-run_template terms-of-service
+run_template cookie-policy
