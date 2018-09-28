@@ -24,6 +24,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f24d8ef-44fb-4fe5-b629-6a67a48a57be" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/burton.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -79,23 +80,23 @@
           <entry key="Bash" value="3" />
           <entry key="css" value="102" />
           <entry key="hbs" value="20" />
-          <entry key="html" value="4711" />
+          <entry key="html" value="4802" />
           <entry key="js" value="32" />
           <entry key="json" value="2" />
           <entry key="mustache" value="239" />
           <entry key="sh" value="331" />
-          <entry key="txt" value="766" />
+          <entry key="txt" value="769" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Bash" value="334" />
           <entry key="CSS" value="102" />
-          <entry key="HTML" value="4731" />
+          <entry key="HTML" value="4822" />
           <entry key="Handlebars/Mustache" value="239" />
           <entry key="JSON" value="2" />
           <entry key="JavaScript" value="32" />
-          <entry key="PLAIN_TEXT" value="766" />
+          <entry key="PLAIN_TEXT" value="769" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -162,8 +163,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="126" column="95" lean-forward="true" selection-start-line="126" selection-start-column="95" selection-end-line="126" selection-end-column="95" />
+            <state relative-caret-position="247">
+              <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="128" />
             </state>
           </provider>
         </entry>
@@ -172,7 +173,7 @@
         <entry file="file://$PROJECT_DIR$/assets/screenshots/gen-dropshadow.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" column="62" lean-forward="true" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -195,8 +196,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>learn more</find>
-      <find>&gt;</find>
       <find>&lt;im</find>
       <find>Froala Blc</find>
       <find>Knowled</find>
@@ -224,6 +223,9 @@
       <find>background</find>
       <find>transp</find>
       <find>logo.</find>
+      <find>we update</find>
+      <find>one place</find>
+      <find>in one</find>
     </findStrings>
     <replaceStrings>
       <replace>draggable=&quot;false&quot;</replace>
@@ -279,8 +281,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="551" />
-    <option name="y" value="143" />
+    <option name="x" value="401" />
+    <option name="y" value="123" />
     <option name="width" value="1742" />
     <option name="height" value="1268" />
   </component>
@@ -396,7 +398,7 @@
       <workItem from="1537890132758" duration="977000" />
       <workItem from="1537894508227" duration="217000" />
       <workItem from="1537894827919" duration="596000" />
-      <workItem from="1537903454200" duration="3299000" />
+      <workItem from="1537903454200" duration="6948000" />
     </task>
     <task id="LOCAL-00001" summary="... getting there..">
       <created>1536972804336</created>
@@ -573,14 +575,21 @@
       <option name="project" value="LOCAL" />
       <updated>1537906290072</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="...">
+      <created>1537912102228</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1537912102228</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46239000" />
+    <option name="totallyTimeSpent" value="49888000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="551" y="143" width="1742" height="1268" extended-state="0" />
+    <frame x="401" y="123" width="1742" height="1268" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4991708" visible="true" weight="0.24793875" />
@@ -616,6 +625,374 @@
     <option name="version" value="1" />
     <option name="exactExcludedFiles">
       <list>
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/sync/framework/SyncProgress.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/sync/framework/SyncEngineRegistry.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/sync/framework/SyncProgress.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/electron_browser/BrowserAppWindowFactory.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/sync/js/entry.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/dom/DocumentReadyStatesTest.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/dom/DocumentReadyStates.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/dom/IFrames.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/dom/DocumentReadyStatesTest.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/dom/Events.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/dom/IFrames.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/test/sandbox/preload-with-iframes/index.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/dom/DocumentReadyStates.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/test/spectron/ipc-engine-from-renderer-to-main/app.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/sync/framework/SyncEngineRegistry.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/test/spectron/ipc-engine-from-renderer-to-main/app.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/test/spectron/ipc-engine-from-renderer-to-main/index.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/sync/js/entry.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/test/spectron/ipc-engine-from-renderer-to-main/index.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/test/sandbox/preload-with-iframes/preload.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/test/sandbox/preload-with-iframes/index.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/test/sandbox/preload-with-iframes/app.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/contextmenu/Points.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/contextmenu/ContextMenuController.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/contextmenu/ContextMenuType.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/contextmenu/ContextMenuPoints.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/contextmenu/Points.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/electron/web_contents_notifier/WebContentsNotifiers.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/electron/web_contents_notifier/WebContentsNotifier.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/electron/web_contents_notifier/WindowChannels.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/electron/web_contents_notifier/WebContentsNotifiers.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/dom/Events.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/sync/framework/SyncQueueTest.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/contextmenu/ContextMenuLocation.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/contextmenu/TriggerEvent.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/contextmenu/TriggerEvent.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/contextmenu/ContextMenuPoints.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/contextmenu/MatchingSelector.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/contextmenu/ContextMenuType.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/annotations/AnnotationPointers.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/contextmenu/ContextMenuLocation.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/contextmenu/ContextMenuController.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/toaster/app.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/toaster/spec.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/sync/framework/SyncQueue.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/toaster/spec.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/toaster/app.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Percentages.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/TextArray.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/sync/framework/SyncJob.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/sync/framework/SyncTask.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/sync/framework/SyncEngine.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/sync/framework/SyncEngine.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/sync/framework/SyncProgressListener.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/sync/framework/Abortable.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/annotations/AnnotationPointers.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Strings.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/annotations/AnnotationPointer.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/annotations/AnnotationPointer.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/contextmenu/MatchingSelector.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/sync/framework/SyncJob.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Streams.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Fingerprints.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/services/Service.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/docformat/PDFFormat.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/docformat/HTMLFormat.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/sync/framework/SyncState.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/sync/framework/SyncTask.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/docformat/PDFFormat.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/services/Services.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/backend/proxyserver/CachedRequestsHolder.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/services/Services.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/services/Service.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/toaster/Toaster.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/docformat/DocFormatFactory.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/docformat/HTMLFormat.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/docformat/DocFormat.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/sync/framework/Abortable.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/toaster/index.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/toaster/index.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/backend/proxyserver/BufferedCacheEntry.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/sync/framework/SyncQueue.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/sync/framework/SyncQueueTest.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/docformat/DocFormatFactory.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/docformat/DocFormat.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/docformat/DocFormats.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/toaster/Toaster.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/docformat/DocFormats.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/test/spectron/preload-test/app.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/popperjs/app.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/popperjs/spec.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/InterceptStreamProtocol/index.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/capture/drivers/BrowserWebContentsDriver.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/InterceptStreamProtocol/spec.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/test/spectron/preload-test/index.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/test/spectron/preload-test/preload.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/test/spectron/preload-test/index.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/test/spectron/preload-test/preload.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/test/spectron/preload-test/app.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/capture/drivers/StandardWebContentsDriver.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/capture/drivers/AbstractWebviewWebContentsDriver.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/capture/drivers/WebContentsDriver.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/capture/drivers/CaptureWebviewWebContentsDriver.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/capture/drivers/WebContentsDriver.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/capture/drivers/BrowserWebContentsDriver.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/capture/drivers/AbstractWebviewWebContentsDriver.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/scratch/typescript/abstract_method_calls/AbstractMethodCallsTest.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/InterceptStreamProtocol/spec.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/net-request/index.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/InterceptStreamProtocol/index.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/net-request/spec.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/net-request/spec.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/capture/drivers/CaptureWebviewWebContentsDriver.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/capture/drivers/StandardWebContentsDriver.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/sync/index.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/splitjs_sidebar/spec.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ipc/pipes/ElectronMainReadablePipe.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/AppState.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/Utils.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/RepoDocInfo.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/RepoDocInfo.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/popperjs/index.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/sync/index.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/scratch/typescript/abstract_method_calls/AbstractMethodCallsTest.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/splitjs_sidebar/index.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/net-request/index.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/splitjs_sidebar/spec.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/splitjs_sidebar/index.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/splitjs_sidebar/app.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/splitjs_sidebar/app.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ipc/pipes/WindowMessagePipe.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/PolarDataDir.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/Assertions.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/SpectronOutputMonitorService.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/SpectronMain.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/SpectronMain2.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/TestingTime.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/SpectronState.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/popperjs/index.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/popperjs/app.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/popperjs/spec.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/boxes/controller/BoxOptions.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/boxes/controller/BoxMoveEvent.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/boxes/controller/BoxController.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/SpectronMain2.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/Electron.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/KeyEvents.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/HashcodesTest.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/KeyEvents.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/Preconditions.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/RectsTest.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/MockRects.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/SpectronMain.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/SpectronRenderer.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/SpectronSpec.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/SpectronBrowserWindowOptions.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/SpectronState.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/TestingTime.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/SpectronSpec.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/Spectron.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/Preconditions.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/RectsTest.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/Electron.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/Test.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/PreconditionsTest.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/main.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/main.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/MockRects.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/PolarDataDir.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/SpectronRenderer.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/Spectron.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/Assertions.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/PreconditionsTest.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/Point.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/Hashcodes.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/Test.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/Hashcodes.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/persistent-error-logger/index.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/persistent-error-logger/index.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/persistent-error-logger/app.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/persistent-error-logger/spec.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/persistent-error-logger/spec.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/electron/context/ElectronContextTypes.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/electron/context/ElectronContextType.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/Rect.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/Rect.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/HashcodesTest.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/Point.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/Rects.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/Rects.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/progress_bar/ProgressBar.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/main-app/spec.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/main-app/index.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/main-app/index.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/main-app/spec.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/Utils.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/RepoDocInfoIndex.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/persistent-error-logger/app.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/main-app-with-empty-repo/spec.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/main-app-with-empty-repo/index.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/electron/context/ElectronContextType.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/electron/context/ElectronContextTypes.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/progress_bar/ProgressBar.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/FilteredTags.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/TagSelectOptions.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/FilteredTags.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/AppProps.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/FilterTagInput.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/DocRepository.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/TagSelectOptions.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/TagsDB.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/entry.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/TagInput.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/TagSelectOption.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/RepoDocInfoIndex.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/main-app-with-empty-repo/index.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/main-app-with-empty-repo/spec.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/index.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/index.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/TagSelectOption.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/entry.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/FilterTagInput.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/RepoDocInfoLoader.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/AppProps.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/AppState.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/App.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ipc/pipes/Pipe.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/RepoDocInfos.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/App.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/TagInput.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/TagsDB.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/RepoDocInfos.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/DocRepository.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/Blackout.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/RepoDocInfoLoader.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Styles.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Dictionaries.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Version.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/LineTest.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Dictionaries.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/FunctionalInterface.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Result.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/SetsTest.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ipc/pipes/TypedPipe.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/Blackout.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/FunctionsTest.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Attributes.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Result.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/RectArt.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Arrays.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Objects.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Dict.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Paths.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Dicts.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Line.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/FilesTest.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Sets.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/ExecutionTimer.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/PackageManifest.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Time.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/summernote-lite/content.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/FilePaths.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/summernote-lite/content.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/TextArrayTest.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/summernote-lite/index.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/AttributesTest.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/summernote-lite/index.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Styles.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/ArgsParser.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Concurrently.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Elements.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Functions.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Objects.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Files.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Dimensions.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Version.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Line.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Streams.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Filenames.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/ArraysTest.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/ArraysTest.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Paths.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Time.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/DictionariesTest.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/FilePaths.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Arrays.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/FilenamesTest.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/ObjectsTest.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/TextArray.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/results/TestResultReader.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/results/TestResultWriter.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/results/TestResultService.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/results/TestResultService.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/results/TestResultReader.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/results/TestResultWriter.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Strings.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Dimensions.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/FingerprintsTest.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/PackageManifest.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Results.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Progress.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/AttributesTest.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Results.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/electron/Cmdline.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/electron/CmdlineTest.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/electron/CmdlineTest.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Percentages.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/ResultsTest.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Buffers.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/SpectronOutputMonitorService.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/SpectronBrowserWindowOptions.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/electron/messenger/Messenger.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/electron/messenger/PostMessageRequest.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/electron/messenger/Messenger.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/electron/messenger/PostMessageRequest.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/electron/Cmdline.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/boxes/controller/BoxOptions.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/datastore/BackingStore.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/datastore/DatastoreFile.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/datastore/DatastoreFile.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/datastore/BackingStore.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/reactstrap-annotation-bar/index.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/reactstrap-annotation-bar/index.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/reactstrap-annotation-bar/spec.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/summernote-lite/spec.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/summernote-lite/spec.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/page_search/PageSearchController.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/page_search/PageSearchController.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/main/InPageSearch.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/main/InPageSearch.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/boxes/controller/BoxMoveEvent.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/reactstrap-annotation-bar/spec.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/reactstrap-annotation-bar/content.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/reactstrap-annotation-bar/content.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/reactstrap-annotation-bar/App.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/reactstrap-annotation-bar/App.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/backend/webserver/FileRegistryTest.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/backend/webserver/FileRegistryTest.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/browser/js/entry.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/browser/js/entry.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/browser/TriggerCaptureMessage.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/browser/TriggerCaptureMessage.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/browser/BrowserApp.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/browser/BrowserApp.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/browser/index.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/browser/index.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/summernote/index.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/summernote/index.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/summernote/content.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/summernote/content.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/summernote/spec.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/summernote/spec.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/popup/Popup.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/popup/MouseEventReferenceObject.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/popup/Popup.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/popup/RangeReferenceObject.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/popup/MouseEventReferenceObject.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/popup/RangeReferenceObject.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/comments/CommentsController.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/comments/CommentsController.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/popup/PointReferenceObject.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/popup/PointReferenceObject.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/comments/react/CommentPopupBox.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/comments/react/CommentPopupBox.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/comments-popup-box/app.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/comments-popup-box/index.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/comments-popup-box/app.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/comments-popup-box/index.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/backend/webserver/WebserverTest.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/backend/webserver/WebserverTest.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/backend/webserver/WebserverConfig.js.map" />
@@ -651,6 +1028,7 @@
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/logger/LoggerTest.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/logger/MultiLogger.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/logger/SentryLogger.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/comments/react/CommentEvent.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/logger/StatsLogger.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/logger/Logging.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/annotations/components/AnnotationEventListener.js" />
@@ -664,6 +1042,7 @@
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Attributes.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ipc/pipes/ElectronMainToBrowserWindowPipe.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ipc/pipes/WindowMessagePipe.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/comments/react/CommentEvent.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ipc/pipes/Pipes.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ipc/pipes/WindowMessagePipeTest.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ipc/pipes/SyncPipes.js" />
@@ -1882,352 +2261,8 @@
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/electron/web_contents_notifier/WebContentsNotifier.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/electron/web_contents_notifier/WindowChannels.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/sync/framework/SyncState.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/sync/framework/SyncProgress.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/sync/framework/SyncEngineRegistry.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/sync/framework/SyncProgress.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/electron_browser/BrowserAppWindowFactory.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/sync/js/entry.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/dom/DocumentReadyStatesTest.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/dom/DocumentReadyStates.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/dom/IFrames.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/dom/DocumentReadyStatesTest.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/dom/Events.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/dom/IFrames.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/test/sandbox/preload-with-iframes/index.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/dom/DocumentReadyStates.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/test/spectron/ipc-engine-from-renderer-to-main/app.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/sync/framework/SyncEngineRegistry.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/test/spectron/ipc-engine-from-renderer-to-main/app.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/test/spectron/ipc-engine-from-renderer-to-main/index.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/sync/js/entry.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/test/spectron/ipc-engine-from-renderer-to-main/index.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/test/sandbox/preload-with-iframes/preload.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/test/sandbox/preload-with-iframes/index.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/test/sandbox/preload-with-iframes/app.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/contextmenu/Points.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/contextmenu/ContextMenuController.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/contextmenu/ContextMenuType.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/contextmenu/ContextMenuPoints.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/contextmenu/Points.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/electron/web_contents_notifier/WebContentsNotifiers.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/electron/web_contents_notifier/WebContentsNotifier.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/electron/web_contents_notifier/WindowChannels.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/electron/web_contents_notifier/WebContentsNotifiers.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/dom/Events.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/sync/framework/SyncQueueTest.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/contextmenu/ContextMenuLocation.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/contextmenu/TriggerEvent.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/contextmenu/TriggerEvent.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/contextmenu/ContextMenuPoints.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/contextmenu/MatchingSelector.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/contextmenu/ContextMenuType.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/annotations/AnnotationPointers.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/contextmenu/ContextMenuLocation.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/contextmenu/ContextMenuController.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/toaster/app.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/toaster/spec.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/sync/framework/SyncQueue.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/toaster/spec.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/toaster/app.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Percentages.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/TextArray.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/sync/framework/SyncJob.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/sync/framework/SyncTask.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/sync/framework/SyncEngine.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/sync/framework/SyncEngine.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/sync/framework/SyncProgressListener.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/sync/framework/Abortable.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/annotations/AnnotationPointers.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Strings.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/annotations/AnnotationPointer.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/annotations/AnnotationPointer.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/contextmenu/MatchingSelector.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/sync/framework/SyncJob.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Streams.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Fingerprints.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/services/Service.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/docformat/PDFFormat.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/docformat/HTMLFormat.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/sync/framework/SyncState.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/sync/framework/SyncTask.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/summernote-lite/content.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/docformat/PDFFormat.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/summernote-lite/content.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/services/Services.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/summernote-lite/index.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/backend/proxyserver/CachedRequestsHolder.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/summernote-lite/index.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/services/Services.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/services/Service.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/toaster/Toaster.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/docformat/DocFormatFactory.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/docformat/HTMLFormat.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/docformat/DocFormat.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/sync/framework/Abortable.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/toaster/index.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/toaster/index.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/backend/proxyserver/BufferedCacheEntry.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/sync/framework/SyncQueue.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/sync/framework/SyncQueueTest.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/docformat/DocFormatFactory.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/docformat/DocFormat.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/docformat/DocFormats.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/toaster/Toaster.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/docformat/DocFormats.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/test/spectron/preload-test/app.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/popperjs/app.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/popperjs/spec.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/InterceptStreamProtocol/index.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/capture/drivers/BrowserWebContentsDriver.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/InterceptStreamProtocol/spec.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/test/spectron/preload-test/index.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/test/spectron/preload-test/preload.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/test/spectron/preload-test/index.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/test/spectron/preload-test/preload.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/test/spectron/preload-test/app.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/capture/drivers/StandardWebContentsDriver.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/capture/drivers/AbstractWebviewWebContentsDriver.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/capture/drivers/WebContentsDriver.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/capture/drivers/CaptureWebviewWebContentsDriver.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/capture/drivers/WebContentsDriver.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/capture/drivers/BrowserWebContentsDriver.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/capture/drivers/AbstractWebviewWebContentsDriver.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/scratch/typescript/abstract_method_calls/AbstractMethodCallsTest.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/InterceptStreamProtocol/spec.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/net-request/index.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/InterceptStreamProtocol/index.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/net-request/spec.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/net-request/spec.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/capture/drivers/CaptureWebviewWebContentsDriver.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/capture/drivers/StandardWebContentsDriver.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/sync/index.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/splitjs_sidebar/spec.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ipc/pipes/ElectronMainReadablePipe.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/AppState.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/Utils.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/RepoDocInfo.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/RepoDocInfo.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/popperjs/index.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/sync/index.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/scratch/typescript/abstract_method_calls/AbstractMethodCallsTest.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/splitjs_sidebar/index.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/net-request/index.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/splitjs_sidebar/spec.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/splitjs_sidebar/index.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/splitjs_sidebar/app.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/splitjs_sidebar/app.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ipc/pipes/WindowMessagePipe.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/PolarDataDir.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/Assertions.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/SpectronOutputMonitorService.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/SpectronMain.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/SpectronMain2.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/TestingTime.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/SpectronState.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/popperjs/index.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/popperjs/app.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/popperjs/spec.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/boxes/controller/BoxOptions.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/boxes/controller/BoxMoveEvent.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/boxes/controller/BoxController.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/SpectronMain2.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/Electron.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/KeyEvents.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/HashcodesTest.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/KeyEvents.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/Preconditions.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/RectsTest.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/MockRects.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/SpectronMain.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/SpectronRenderer.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/SpectronSpec.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/SpectronBrowserWindowOptions.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/SpectronState.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/TestingTime.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/SpectronSpec.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/Spectron.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/Preconditions.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/RectsTest.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/Electron.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/Test.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/PreconditionsTest.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/main.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/main.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/MockRects.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/PolarDataDir.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/SpectronRenderer.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/Spectron.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/Assertions.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/PreconditionsTest.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/Point.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/Hashcodes.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/Test.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/Hashcodes.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/persistent-error-logger/index.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/persistent-error-logger/index.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/persistent-error-logger/app.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/persistent-error-logger/spec.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/persistent-error-logger/spec.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/electron/context/ElectronContextTypes.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/electron/context/ElectronContextType.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/Rect.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/Rect.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/HashcodesTest.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/Point.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/Rects.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/Rects.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/progress_bar/ProgressBar.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/main-app/spec.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/main-app/index.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/main-app/index.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/main-app/spec.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/Utils.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/RepoDocInfoIndex.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/persistent-error-logger/app.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/main-app-with-empty-repo/spec.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/main-app-with-empty-repo/index.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/electron/context/ElectronContextType.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/electron/context/ElectronContextTypes.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/progress_bar/ProgressBar.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/FilteredTags.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/TagSelectOptions.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/FilteredTags.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/AppProps.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/FilterTagInput.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/DocRepository.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/TagSelectOptions.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/TagsDB.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/entry.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/TagInput.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/TagSelectOption.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/RepoDocInfoIndex.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/main-app-with-empty-repo/index.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/main-app-with-empty-repo/spec.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/index.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/index.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/TagSelectOption.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/entry.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/FilterTagInput.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/RepoDocInfoLoader.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/AppProps.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/AppState.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/App.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ipc/pipes/Pipe.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/RepoDocInfos.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/App.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/TagInput.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/TagsDB.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/RepoDocInfos.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/DocRepository.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/Blackout.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/RepoDocInfoLoader.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Styles.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Dictionaries.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Version.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/LineTest.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Dictionaries.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/FunctionalInterface.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Result.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/SetsTest.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ipc/pipes/TypedPipe.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/Blackout.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/FunctionsTest.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Attributes.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Result.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/RectArt.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Arrays.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Objects.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Dict.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Paths.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Dicts.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Line.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/FilesTest.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Sets.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/ExecutionTimer.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/PackageManifest.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Time.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/FilePaths.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/TextArrayTest.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/AttributesTest.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Styles.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/ArgsParser.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Concurrently.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Elements.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Functions.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Objects.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Files.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Dimensions.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Version.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Line.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Streams.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Filenames.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/ArraysTest.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/ArraysTest.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Paths.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Time.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/DictionariesTest.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/FilePaths.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Arrays.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/FilenamesTest.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/ObjectsTest.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/TextArray.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/results/TestResultReader.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/results/TestResultWriter.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/results/TestResultService.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/results/TestResultService.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/results/TestResultReader.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/results/TestResultWriter.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Strings.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Dimensions.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/FingerprintsTest.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/PackageManifest.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Results.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Progress.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/AttributesTest.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Results.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/electron/Cmdline.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/electron/CmdlineTest.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/electron/CmdlineTest.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Percentages.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/ResultsTest.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Buffers.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/SpectronOutputMonitorService.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/test/SpectronBrowserWindowOptions.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/electron/messenger/Messenger.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/electron/messenger/PostMessageRequest.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/electron/messenger/Messenger.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/electron/messenger/PostMessageRequest.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/electron/Cmdline.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/boxes/controller/BoxOptions.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/datastore/BackingStore.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/datastore/DatastoreFile.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/datastore/DatastoreFile.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/datastore/BackingStore.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/reactstrap-annotation-bar/index.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/reactstrap-annotation-bar/index.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/reactstrap-annotation-bar/spec.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/summernote-lite/spec.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/summernote-lite/spec.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/page_search/PageSearchController.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/page_search/PageSearchController.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/main/InPageSearch.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/main/InPageSearch.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/boxes/controller/BoxMoveEvent.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/reactstrap-annotation-bar/spec.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/reactstrap-annotation-bar/content.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/reactstrap-annotation-bar/content.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/reactstrap-annotation-bar/App.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/reactstrap-annotation-bar/App.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/backend/webserver/FileRegistryTest.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/backend/webserver/FileRegistryTest.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/browser/js/entry.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/browser/js/entry.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/browser/index.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/browser/BrowserApp.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/browser/index.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/browser/BrowserApp.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/browser/TriggerCaptureMessage.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/browser/TriggerCaptureMessage.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/card_creator/elements/schemaform/ReactSummernote4.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/card_creator/elements/schemaform/ReactSummernote4.js" />
       </list>
     </option>
   </component>
@@ -2254,11 +2289,11 @@
     <MESSAGE value="working on tos..." />
     <MESSAGE value="tring to make a basic ToS" />
     <MESSAGE value="all files should be ok" />
-    <MESSAGE value="..." />
     <MESSAGE value="new image on the front page so it loads faster..." />
     <MESSAGE value="this is better than the default image for now..." />
     <MESSAGE value="must use the PNg for now" />
-    <option name="LAST_COMMIT_MESSAGE" value="must use the PNg for now" />
+    <MESSAGE value="..." />
+    <option name="LAST_COMMIT_MESSAGE" value="..." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/screenshots/annotations.png">
@@ -2417,14 +2452,14 @@
     <entry file="file://$PROJECT_DIR$/assets/screenshots/gen-dropshadow.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" column="62" lean-forward="true" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="126" column="95" lean-forward="true" selection-start-line="126" selection-start-column="95" selection-end-line="126" selection-end-column="95" />
+        <state relative-caret-position="247">
+          <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="128" />
         </state>
       </provider>
     </entry>
