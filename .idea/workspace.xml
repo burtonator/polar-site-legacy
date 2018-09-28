@@ -24,8 +24,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f24d8ef-44fb-4fe5-b629-6a67a48a57be" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/debug/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug/console-messages.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,10 +54,11 @@
         <counts>
           <entry key="css" value="1" />
           <entry key="hbs" value="1" />
-          <entry key="html" value="10" />
+          <entry key="html" value="11" />
           <entry key="include" value="1" />
           <entry key="js" value="2" />
           <entry key="json" value="1" />
+          <entry key="md" value="1" />
           <entry key="mustache" value="7" />
           <entry key="png" value="16" />
           <entry key="sh" value="4" />
@@ -66,11 +68,12 @@
         <counts>
           <entry key="Bash" value="4" />
           <entry key="CSS" value="1" />
-          <entry key="HTML" value="11" />
+          <entry key="HTML" value="12" />
           <entry key="Handlebars/Mustache" value="5" />
           <entry key="Image" value="16" />
           <entry key="JSON" value="1" />
           <entry key="JavaScript" value="2" />
+          <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
@@ -79,23 +82,25 @@
           <entry key="Bash" value="3" />
           <entry key="css" value="102" />
           <entry key="hbs" value="20" />
-          <entry key="html" value="4826" />
+          <entry key="html" value="5107" />
           <entry key="js" value="32" />
           <entry key="json" value="2" />
+          <entry key="md" value="143" />
           <entry key="mustache" value="239" />
           <entry key="sh" value="331" />
-          <entry key="txt" value="793" />
+          <entry key="txt" value="813" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Bash" value="334" />
           <entry key="CSS" value="102" />
-          <entry key="HTML" value="4846" />
+          <entry key="HTML" value="5127" />
           <entry key="Handlebars/Mustache" value="239" />
           <entry key="JSON" value="2" />
           <entry key="JavaScript" value="32" />
-          <entry key="PLAIN_TEXT" value="793" />
+          <entry key="Markdown" value="143" />
+          <entry key="PLAIN_TEXT" value="813" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -105,24 +110,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cookie-policy.mustache">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
-              <caret line="43" selection-start-line="43" selection-end-line="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/terms-of-service.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.mustache">
           <provider selected="true" editor-type-id="text-editor">
@@ -159,11 +146,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="799">
-              <caret line="134" column="24" selection-start-line="134" selection-start-column="24" selection-end-line="134" selection-end-column="24" />
+            <state relative-caret-position="425">
+              <caret line="121" column="33" lean-forward="true" selection-start-line="121" selection-start-column="33" selection-end-line="121" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/debug/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="17">
+                <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/debug/console-messages.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -262,6 +270,8 @@
         <option value="$PROJECT_DIR$/partials/footer.mustache" />
         <option value="$PROJECT_DIR$/assets/screenshots/gen-dropshadow.sh" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/debug/README.md" />
+        <option value="$PROJECT_DIR$/debug/console-messages.html" />
       </list>
     </option>
   </component>
@@ -304,18 +314,7 @@
             <path>
               <item name="polar-site" type="b2602c69:ProjectViewProjectNode" />
               <item name="polar-site" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="polar-site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="polar-site" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="logo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="polar-site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="polar-site" type="462c0819:PsiDirectoryNode" />
-              <item name="partials" type="462c0819:PsiDirectoryNode" />
+              <item name="debug" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -397,7 +396,7 @@
       <workItem from="1537890132758" duration="977000" />
       <workItem from="1537894508227" duration="217000" />
       <workItem from="1537894827919" duration="596000" />
-      <workItem from="1537903454200" duration="9106000" />
+      <workItem from="1537903454200" duration="11362000" />
     </task>
     <task id="LOCAL-00001" summary="... getting there..">
       <created>1536972804336</created>
@@ -595,11 +594,18 @@
       <option name="project" value="LOCAL" />
       <updated>1538102654143</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="updated typo...">
+      <created>1538143089797</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1538143089797</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52046000" />
+    <option name="totallyTimeSpent" value="54302000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="401" y="123" width="1742" height="1268" extended-state="0" />
@@ -2276,6 +2282,10 @@
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/sync/framework/SyncState.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/card_creator/elements/schemaform/ReactSummernote4.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/card_creator/elements/schemaform/ReactSummernote4.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/firebase-auth/Firebase.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/firebase-auth/Firebase.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/firebase-auth/FirebaseUIAuth.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/firebase-auth/FirebaseUIAuth.js.map" />
       </list>
     </option>
   </component>
@@ -2307,7 +2317,8 @@
     <MESSAGE value="must use the PNg for now" />
     <MESSAGE value="way better intro..." />
     <MESSAGE value="..." />
-    <option name="LAST_COMMIT_MESSAGE" value="..." />
+    <MESSAGE value="updated typo..." />
+    <option name="LAST_COMMIT_MESSAGE" value="updated typo..." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/screenshots/annotations.png">
@@ -2472,8 +2483,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="134" column="24" selection-start-line="134" selection-start-column="24" selection-end-line="134" selection-end-column="24" />
+        <state relative-caret-position="425">
+          <caret line="121" column="33" lean-forward="true" selection-start-line="121" selection-start-column="33" selection-end-line="121" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/debug/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="17">
+            <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/debug/console-messages.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
         </state>
       </provider>
     </entry>
