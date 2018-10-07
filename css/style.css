@@ -74,8 +74,8 @@ footer {
 }
 
 .tilt-right {
-    -webkit-transform: perspective(20px) rotateZ(.8deg) rotateY(-.8deg);
-    transform: perspective(20px) rotateZ(.8deg) rotateY(-.8deg);
+    -webkit-transform: perspective(20px) rotateZ(.6deg) rotateY(-.6deg);
+    transform: perspective(20px) rotateZ(.6deg) rotateY(-.6deg);
     -webkit-box-shadow:
             2px 4px 20px 0px rgba(0, 0, 0, 0.2),
             4px 6px 50px 8px rgba(0, 0, 0, 0.2);
@@ -85,8 +85,8 @@ footer {
 }
 
 .tilt-left {
-    -webkit-transform: perspective(20px) rotateZ(-.8deg) rotateY(.8deg);
-    transform: perspective(20px) rotateZ(-.8deg) rotateY(.8deg);
+    -webkit-transform: perspective(20px) rotateZ(-.6deg) rotateY(.6deg);
+    transform: perspective(20px) rotateZ(-.6deg) rotateY(.6deg);
     -webkit-box-shadow:
             -2px 4px 20px 0px rgba(0, 0, 0, 0.2),
             -4px 6px 50px 8px rgba(0, 0, 0, 0.2);
