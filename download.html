@@ -124,12 +124,13 @@
         <button class="btn btn-light" data-toggle="collapse" href="#collapse-windows" role="button" aria-expanded="false" aria-controls="collapse-windows">
           <img alt="image" class="img-fluid" src="./assets/logos/microsoft-windows.svg">
           <figcaption>Windows</figcaption>
-
         </button>
       </div>
       <div class="col-4 col-md-4 m-auto">
-        <img alt="image" class="img-fluid" src="./assets/logos/macosx.svg">
-        <figcaption>Mac OS</figcaption>
+        <button class="btn btn-light" data-toggle="collapse" href="#collapse-macos" role="button" aria-expanded="false" aria-controls="collapse-macos">
+          <img alt="image" class="img-fluid" src="./assets/logos/macosx.svg">
+          <figcaption>Mac OS</figcaption>
+        </button>
       </div>
       <div class="col-4 col-md-4 m-auto">
         <img alt="image" class="img-fluid" src="./assets/logos/ubuntu.svg">
@@ -154,11 +155,11 @@
 
             <div class="download-links m-2 text-center">
 
-              <a class="btn btn-success btn-lg" href="#">
+              <a id="download-win-64" class="btn btn-success btn-lg m-2" href="#">
                 <i class="fas fa-cloud-download-alt"></i> Download 64bit
               </a>
 
-              <a class="btn btn-success btn-lg" href="#">
+              <a id="download-win-32" class="btn btn-success btn-lg m-2" href="#">
                 <i class="fas fa-cloud-download-alt"></i> Download 32bit
               </a>
 
@@ -177,11 +178,24 @@
 
             <div class="text-center m-auto">
 
-              <img class="img-fluid" style="max-width: 100%; zoom: 80%;" src="assets/screenshots/windows-do-not-run-annotated.png">
+              <img class="img-fluid img-shadow m-2" style="max-width: 100%; zoom: 80%;" src="assets/screenshots/windows-do-not-run-annotated.png">
 
-              <img class="img-fluid" style="max-width: 100%;  zoom: 80%;" src="assets/screenshots/windows-run-anyway.png">
+              <img class="img-fluid  img-shadow m-2" style="max-width: 100%;  zoom: 80%;" src="assets/screenshots/windows-run-anyway.png">
 
             </div>
+
+          </div>
+        </div>
+
+        <div class="collapse" id="collapse-macos">
+
+          <div class="border border-dark rounded p-4 section-text">
+
+            <div class="download-links m-2 text-center">
+
+              <a id="download-macos-dmg" class="btn btn-success btn-lg m-2" href="#">
+                <i class="fas fa-cloud-download-alt"></i> Download DMG
+              </a>
 
           </div>
         </div>
