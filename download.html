@@ -102,23 +102,10 @@
       <div class="col text-center">
         <h1 class="intro">Download POLAR <b>BETA</b></h1>
 
-        <div class="subtitle">
+        <div class="subtitle" style="font-size: 20px; max-width: 700px;">
 
-          <p>
-            Polar is currently in <b>BETA</b> as we're preparing to release 1.0
-            in the next 30-60 days.
-          </p>
-
-          <p>
-            We're focused on stability first so if you have any problems please
-            let us know by reaching out to us on Discord or creating an issue
-            on Github.
-          </p>
-
-          <p>We have builds for Windows, MacOS, and Linux.  Currently none
-             of our builds are signed for Windows and MacOS so you will have to
-             manually approve the builds on each platform.  For Linux we provide
-            .deb and tar.gz packages.</p>
+          <p>POLAR is released for Windows, MacOS, and Linux.  For Linux we provide deb
+             and snap packages as well as static and tar.gz bundles. </p>
 
         </div>
 
@@ -134,8 +121,11 @@
 
     <div class="row pt-4 text-center">
       <div class="col-4 col-md-4 m-auto">
-        <img alt="image" class="img-fluid" src="./assets/logos/microsoft-windows.svg">
-        <figcaption>Windows</figcaption>
+        <button class="btn btn-light" data-toggle="collapse" href="#collapse-windows" role="button" aria-expanded="false" aria-controls="collapse-windows">
+          <img alt="image" class="img-fluid" src="./assets/logos/microsoft-windows.svg">
+          <figcaption>Windows</figcaption>
+
+        </button>
       </div>
       <div class="col-4 col-md-4 m-auto">
         <img alt="image" class="img-fluid" src="./assets/logos/macosx.svg">
@@ -151,6 +141,25 @@
     </div>
   </div>
 </section>
+
+
+<section class="fdb-block" data-block-type="contents" data-id="1">
+  <div class="container">
+
+    <div class="row">
+      <div class="col m-auto">
+
+        <div class="collapse" id="collapse-windows">
+          <div class="card card-body">
+            This is the instructions for Windows.
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</section>
+
 
 <!--<style>-->
   <!--.download-section .fab {-->
@@ -194,6 +203,44 @@
     <!--</div>-->
   <!--</div>-->
 <!--</section>-->
+
+<footer>
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"></script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-122721184-3"></script>
+  <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-122721184-3');
+  </script>
+
+  <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js"></script>
+  <script>
+      window.cookieconsent.initialise({
+          container: document.querySelector("body"),
+          palette:{
+              popup: {background: "#fff"},
+              button: {background: "#aa0000"},
+          },
+          revokable:true,
+          onStatusChange: function(status) {
+              console.log(this.hasConsented() ?
+                          'enable cookies' : 'disable cookies');
+          },
+          law: {
+              regionalLaw: false,
+          },
+          location: true,
+      });
+  </script>
+
+
+</footer>
 
 
 </body>
