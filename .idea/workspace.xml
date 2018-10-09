@@ -23,9 +23,8 @@
     <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f24d8ef-44fb-4fe5-b629-6a67a48a57be" name="Default Changelist" comment="...">
+    <list default="true" id="8f24d8ef-44fb-4fe5-b629-6a67a48a57be" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TODO.md" beforeDir="false" afterPath="$PROJECT_DIR$/TODO.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -86,25 +85,25 @@
           <entry key="Bash" value="3" />
           <entry key="css" value="294" />
           <entry key="hbs" value="20" />
-          <entry key="html" value="9391" />
+          <entry key="html" value="9678" />
           <entry key="js" value="296" />
           <entry key="json" value="2" />
           <entry key="md" value="2358" />
           <entry key="mustache" value="248" />
           <entry key="sh" value="331" />
-          <entry key="txt" value="1285" />
+          <entry key="txt" value="1377" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Bash" value="334" />
           <entry key="CSS" value="294" />
-          <entry key="HTML" value="9411" />
+          <entry key="HTML" value="9698" />
           <entry key="Handlebars/Mustache" value="248" />
           <entry key="JSON" value="2" />
           <entry key="JavaScript" value="296" />
           <entry key="Markdown" value="2358" />
-          <entry key="PLAIN_TEXT" value="1285" />
+          <entry key="PLAIN_TEXT" value="1377" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -126,8 +125,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="515">
-              <caret line="491" lean-forward="true" selection-start-line="491" selection-end-line="491" />
+            <state relative-caret-position="740">
+              <caret line="474" column="29" selection-start-line="474" selection-start-column="29" selection-end-line="474" selection-end-column="29" />
               <folding>
                 <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
@@ -136,13 +135,16 @@
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#section#4;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#1;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -195,7 +197,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="323">
-                <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+                <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
               </first_editor>
               <second_editor />
             </state>
@@ -206,7 +208,7 @@
         <entry file="file://$PROJECT_DIR$/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" column="44" lean-forward="true" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+              <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -228,7 +230,7 @@
         <entry file="file://$PROJECT_DIR$/gen.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="19" column="48" lean-forward="true" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -435,7 +437,7 @@
       <workItem from="1537903454200" duration="13592000" />
       <workItem from="1538157607336" duration="599000" />
       <workItem from="1538248026324" duration="4836000" />
-      <workItem from="1538335046538" duration="40264000" />
+      <workItem from="1538335046538" duration="41629000" />
     </task>
     <task id="LOCAL-00001" summary="... getting there..">
       <created>1536972804336</created>
@@ -745,11 +747,18 @@
       <option name="project" value="LOCAL" />
       <updated>1539025015888</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="working on a subscribe form.. going to rework this entire thing as a jinja2 template...">
+      <created>1539045110497</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1539045110497</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102231000" />
+    <option name="totallyTimeSpent" value="103596000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="324" y="208" width="1742" height="1268" extended-state="0" />
@@ -2315,9 +2324,13 @@
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Streams.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/annotation_sidebar/FlashcardModel.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Filenames.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/annotation_sidebar/child_annotations/CommentComponent.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Version.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/annotation_sidebar/child_annotations/CommentComponent.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Line.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/annotation_sidebar/child_annotations/ChildAnnotationSection.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Files.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/annotation_sidebar/child_annotations/ChildAnnotationSection.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Dimensions.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/browser/react/BrowserConfigurationInputGroup.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/browser/react/RefreshButton.js" />
@@ -2336,10 +2349,14 @@
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/browser/react/CaptureButton.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/browser/react/BrowserNavBar.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/logger/ElectronLogger.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/annotation_sidebar/child_annotations/FlashcardComponent.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/logger/PersistentErrorLogger.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/annotation_sidebar/child_annotations/FlashcardComponent.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/logger/Logger.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/logger/CallerTest.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/annotation_sidebar/child_annotations/ExampleCarousel.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/logger/PersistentErrorLogger.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/annotation_sidebar/child_annotations/ExampleCarousel.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/logger/CallerTest.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/logger/Callers.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/logger/FilteredLogger.js.map" />
@@ -2577,16 +2594,6 @@
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/comments/react/HighlightCreatedEvent.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/comments/react/CommentCreatedEvent.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/proxies/ProxyHandler.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/annotation_sidebar/child_annotations/CommentComponent.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/annotation_sidebar/child_annotations/CommentComponent.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/annotation_sidebar/child_annotations/ChildAnnotationSection.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/annotation_sidebar/child_annotations/ChildAnnotationSection.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/annotation_sidebar/child_annotations/FlashcardComponent.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/annotation_sidebar/child_annotations/FlashcardComponent.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/annotation_sidebar/child_annotations/ExampleCarousel.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/annotation_sidebar/child_annotations/ExampleCarousel.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/NavBanner.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/NavBanner.js.map" />
       </list>
     </option>
   </component>
@@ -2596,7 +2603,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="added a simple carousel to the site ... this might be better than investing in video for the first iteration" />
     <MESSAGE value="google site verification" />
     <MESSAGE value="working on tos..." />
     <MESSAGE value="tring to make a basic ToS" />
@@ -2621,7 +2627,8 @@
     <MESSAGE value="download links.." />
     <MESSAGE value="mac links..." />
     <MESSAGE value="downloads page should be ready.." />
-    <option name="LAST_COMMIT_MESSAGE" value="downloads page should be ready.." />
+    <MESSAGE value="working on a subscribe form.. going to rework this entire thing as a jinja2 template..." />
+    <option name="LAST_COMMIT_MESSAGE" value="working on a subscribe form.. going to rework this entire thing as a jinja2 template..." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/screenshots/annotations.png">
@@ -2838,7 +2845,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="323">
-            <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+            <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
           </first_editor>
           <second_editor />
         </state>
@@ -2847,7 +2854,7 @@
     <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" column="44" lean-forward="true" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -2865,14 +2872,14 @@
     <entry file="file://$PROJECT_DIR$/gen.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="19" column="48" lean-forward="true" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="491" lean-forward="true" selection-start-line="491" selection-end-line="491" />
+        <state relative-caret-position="740">
+          <caret line="474" column="29" selection-start-line="474" selection-start-column="29" selection-end-line="474" selection-end-column="29" />
           <folding>
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
@@ -2881,13 +2888,16 @@
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#4;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
