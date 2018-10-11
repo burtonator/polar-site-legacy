@@ -85,25 +85,25 @@
           <entry key="Bash" value="3" />
           <entry key="css" value="294" />
           <entry key="hbs" value="20" />
-          <entry key="html" value="10000" />
+          <entry key="html" value="10151" />
           <entry key="js" value="296" />
           <entry key="json" value="2" />
           <entry key="md" value="2358" />
           <entry key="mustache" value="248" />
           <entry key="sh" value="331" />
-          <entry key="txt" value="1471" />
+          <entry key="txt" value="1491" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Bash" value="334" />
           <entry key="CSS" value="294" />
-          <entry key="HTML" value="10020" />
+          <entry key="HTML" value="10171" />
           <entry key="Handlebars/Mustache" value="248" />
           <entry key="JSON" value="2" />
           <entry key="JavaScript" value="296" />
           <entry key="Markdown" value="2358" />
-          <entry key="PLAIN_TEXT" value="1471" />
+          <entry key="PLAIN_TEXT" value="1491" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -116,10 +116,9 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="145" column="98" selection-start-line="145" selection-start-column="98" selection-end-line="145" selection-end-column="98" />
+            <state relative-caret-position="443">
+              <caret line="227" selection-start-line="227" selection-end-line="227" />
               <folding>
-                <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -240,7 +239,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>knowledge</find>
       <find>document-</find>
       <find>reps</find>
       <find>knowledge mana</find>
@@ -270,6 +268,7 @@
       <find>210</find>
       <find>1.0.0-beta211</find>
       <find>shields</find>
+      <find>pagemark</find>
     </findStrings>
     <replaceStrings>
       <replace>draggable=&quot;false&quot;</replace>
@@ -337,8 +336,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="324" />
-    <option name="y" value="208" />
+    <option name="x" value="612" />
+    <option name="y" value="277" />
     <option name="width" value="1742" />
     <option name="height" value="1268" />
   </component>
@@ -441,7 +440,7 @@
       <workItem from="1537903454200" duration="13592000" />
       <workItem from="1538157607336" duration="599000" />
       <workItem from="1538248026324" duration="4836000" />
-      <workItem from="1538335046538" duration="46486000" />
+      <workItem from="1538335046538" duration="47259000" />
     </task>
     <task id="LOCAL-00001" summary="... getting there..">
       <created>1536972804336</created>
@@ -779,14 +778,21 @@
       <option name="project" value="LOCAL" />
       <updated>1539217212653</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="wrong shields URL...">
+      <created>1539217684775</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1539217684775</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108453000" />
+    <option name="totallyTimeSpent" value="109226000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="324" y="208" width="1742" height="1268" extended-state="0" />
+    <frame x="612" y="277" width="1742" height="1268" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4991708" visible="true" weight="0.25677267" />
@@ -2640,7 +2646,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="all files should be ok" />
     <MESSAGE value="new image on the front page so it loads faster..." />
     <MESSAGE value="this is better than the default image for now..." />
     <MESSAGE value="must use the PNg for now" />
@@ -2665,7 +2670,8 @@
     <MESSAGE value="another major feature explained..." />
     <MESSAGE value="...download page live now.." />
     <MESSAGE value="updated downloads now..." />
-    <option name="LAST_COMMIT_MESSAGE" value="updated downloads now..." />
+    <MESSAGE value="wrong shields URL..." />
+    <option name="LAST_COMMIT_MESSAGE" value="wrong shields URL..." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/screenshots/annotations.png">
@@ -2914,10 +2920,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="145" column="98" selection-start-line="145" selection-start-column="98" selection-end-line="145" selection-end-column="98" />
+        <state relative-caret-position="443">
+          <caret line="227" selection-start-line="227" selection-end-line="227" />
           <folding>
-            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
