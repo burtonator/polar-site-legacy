@@ -25,8 +25,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8f24d8ef-44fb-4fe5-b629-6a67a48a57be" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/download.html" beforeDir="false" afterPath="$PROJECT_DIR$/download.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/download.js" beforeDir="false" afterPath="$PROJECT_DIR$/download.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -86,25 +85,25 @@
           <entry key="Bash" value="3" />
           <entry key="css" value="294" />
           <entry key="hbs" value="20" />
-          <entry key="html" value="9988" />
+          <entry key="html" value="10000" />
           <entry key="js" value="296" />
           <entry key="json" value="2" />
           <entry key="md" value="2358" />
           <entry key="mustache" value="248" />
           <entry key="sh" value="331" />
-          <entry key="txt" value="1447" />
+          <entry key="txt" value="1471" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Bash" value="334" />
           <entry key="CSS" value="294" />
-          <entry key="HTML" value="10008" />
+          <entry key="HTML" value="10020" />
           <entry key="Handlebars/Mustache" value="248" />
           <entry key="JSON" value="2" />
           <entry key="JavaScript" value="296" />
           <entry key="Markdown" value="2358" />
-          <entry key="PLAIN_TEXT" value="1447" />
+          <entry key="PLAIN_TEXT" value="1471" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -114,13 +113,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="110" selection-start-line="110" selection-end-line="110" />
+            <state relative-caret-position="392">
+              <caret line="145" column="98" selection-start-line="145" selection-start-column="98" selection-end-line="145" selection-end-column="98" />
               <folding>
-                <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -136,6 +134,10 @@
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#form#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -173,11 +175,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/download.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="88" lean-forward="true" selection-start-line="10" selection-start-column="88" selection-end-line="10" selection-end-column="88" />
+            <state relative-caret-position="289">
+              <caret line="17" column="92" lean-forward="true" selection-start-line="17" selection-start-column="92" selection-end-line="17" selection-end-column="92" />
             </state>
           </provider>
         </entry>
@@ -238,7 +240,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>document repos</find>
       <find>knowledge</find>
       <find>document-</find>
       <find>reps</find>
@@ -268,6 +269,7 @@
       <find>download</find>
       <find>210</find>
       <find>1.0.0-beta211</find>
+      <find>shields</find>
     </findStrings>
     <replaceStrings>
       <replace>draggable=&quot;false&quot;</replace>
@@ -314,9 +316,9 @@
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/partials/footer.mustache" />
         <option value="$PROJECT_DIR$/TODO.md" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/download.html" />
         <option value="$PROJECT_DIR$/download.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -439,7 +441,7 @@
       <workItem from="1537903454200" duration="13592000" />
       <workItem from="1538157607336" duration="599000" />
       <workItem from="1538248026324" duration="4836000" />
-      <workItem from="1538335046538" duration="45986000" />
+      <workItem from="1538335046538" duration="46486000" />
     </task>
     <task id="LOCAL-00001" summary="... getting there..">
       <created>1536972804336</created>
@@ -770,11 +772,18 @@
       <option name="project" value="LOCAL" />
       <updated>1539061438217</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="updated downloads now...">
+      <created>1539217212653</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1539217212653</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107953000" />
+    <option name="totallyTimeSpent" value="108453000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="324" y="208" width="1742" height="1268" extended-state="0" />
@@ -2631,7 +2640,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="tring to make a basic ToS" />
     <MESSAGE value="all files should be ok" />
     <MESSAGE value="new image on the front page so it loads faster..." />
     <MESSAGE value="this is better than the default image for now..." />
@@ -2656,7 +2664,8 @@
     <MESSAGE value="working on a subscribe form.. going to rework this entire thing as a jinja2 template..." />
     <MESSAGE value="another major feature explained..." />
     <MESSAGE value="...download page live now.." />
-    <option name="LAST_COMMIT_MESSAGE" value="...download page live now.." />
+    <MESSAGE value="updated downloads now..." />
+    <option name="LAST_COMMIT_MESSAGE" value="updated downloads now..." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/screenshots/annotations.png">
@@ -2884,12 +2893,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/download.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="957">
+          <caret line="244" selection-start-line="244" selection-end-line="244" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/download.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="92" lean-forward="true" selection-start-line="17" selection-start-column="92" selection-end-line="17" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="110" selection-start-line="110" selection-end-line="110" />
+        <state relative-caret-position="392">
+          <caret line="145" column="98" selection-start-line="145" selection-start-column="98" selection-end-line="145" selection-end-column="98" />
           <folding>
-            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -2905,26 +2932,11 @@
             <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#form#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/download.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="957">
-          <caret line="244" selection-start-line="244" selection-end-line="244" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/download.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="88" lean-forward="true" selection-start-line="10" selection-start-column="88" selection-end-line="10" selection-end-column="88" />
         </state>
       </provider>
     </entry>
