@@ -24,10 +24,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f24d8ef-44fb-4fe5-b629-6a67a48a57be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/logo/icon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/logo/icon.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/download.js" beforeDir="false" afterPath="$PROJECT_DIR$/download.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,25 +85,25 @@
           <entry key="Bash" value="3" />
           <entry key="css" value="294" />
           <entry key="hbs" value="20" />
-          <entry key="html" value="10347" />
+          <entry key="html" value="10374" />
           <entry key="js" value="296" />
           <entry key="json" value="2" />
           <entry key="md" value="2358" />
           <entry key="mustache" value="248" />
           <entry key="sh" value="331" />
-          <entry key="txt" value="1507" />
+          <entry key="txt" value="1603" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Bash" value="334" />
           <entry key="CSS" value="294" />
-          <entry key="HTML" value="10367" />
+          <entry key="HTML" value="10394" />
           <entry key="Handlebars/Mustache" value="248" />
           <entry key="JSON" value="2" />
           <entry key="JavaScript" value="296" />
           <entry key="Markdown" value="2358" />
-          <entry key="PLAIN_TEXT" value="1507" />
+          <entry key="PLAIN_TEXT" value="1603" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -115,11 +113,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="306" column="34" selection-start-line="306" selection-start-column="34" selection-end-line="306" selection-end-column="34" />
+            <state relative-caret-position="87">
+              <caret line="333" column="20" lean-forward="true" selection-start-line="333" selection-start-column="20" selection-end-line="333" selection-end-column="20" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -177,11 +175,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/download.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="92" lean-forward="true" selection-start-line="17" selection-start-column="92" selection-end-line="17" selection-end-column="92" />
+            <state relative-caret-position="34">
+              <caret line="2" column="66" lean-forward="true" selection-start-line="2" selection-start-column="66" selection-end-line="2" selection-end-column="66" />
             </state>
           </provider>
         </entry>
@@ -242,7 +240,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>reps</find>
       <find>knowledge mana</find>
       <find>zoom</find>
       <find>6deg</find>
@@ -272,6 +269,7 @@
       <find>shields</find>
       <find>pagemark</find>
       <find>capture</find>
+      <find>1.0.0</find>
     </findStrings>
     <replaceStrings>
       <replace>draggable=&quot;false&quot;</replace>
@@ -281,6 +279,7 @@
       <replace>211</replace>
       <replace>v1.0.0</replace>
       <replace>1.0.0</replace>
+      <replace>1.0.1</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -319,8 +318,8 @@
         <option value="$PROJECT_DIR$/partials/footer.mustache" />
         <option value="$PROJECT_DIR$/TODO.md" />
         <option value="$PROJECT_DIR$/download.html" />
-        <option value="$PROJECT_DIR$/download.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/download.js" />
       </list>
     </option>
   </component>
@@ -443,21 +442,7 @@
       <workItem from="1537903454200" duration="13592000" />
       <workItem from="1538157607336" duration="599000" />
       <workItem from="1538248026324" duration="4836000" />
-      <workItem from="1538335046538" duration="49017000" />
-    </task>
-    <task id="LOCAL-00002" summary="getting close to being done...">
-      <created>1537017246811</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1537017246811</updated>
-    </task>
-    <task id="LOCAL-00003" summary="the screenshots are fluid and full screen now">
-      <created>1537021036705</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1537021036705</updated>
+      <workItem from="1538335046538" duration="50390000" />
     </task>
     <task id="LOCAL-00004" summary="added important social media to the navbar..">
       <created>1537023195023</created>
@@ -788,11 +773,25 @@
       <option name="project" value="LOCAL" />
       <updated>1539218472026</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="favicon and embedded videos.. they're not perfect but baby steps.">
+      <created>1539233908118</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1539233908118</updated>
+    </task>
+    <task id="LOCAL-00052" summary="final videos...">
+      <created>1539235346319</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1539235346319</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110984000" />
+    <option name="totallyTimeSpent" value="112357000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="612" y="277" width="1742" height="1268" extended-state="0" />
@@ -802,6 +801,7 @@
       <window_info id="Structure" order="1" sideWeight="0.50082916" side_tool="true" weight="0.24967062" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3293919" />
@@ -2640,6 +2640,14 @@
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/confirm-button/spec.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/datastore/Backend.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/datastore/Backend.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/MessageBanner.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/MessageBanner.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/tags/TypedTag.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/tags/TypedTag.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/text_input_button/TextInputButton.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/text_input_button/TextInputButton.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/confirm/ConfirmPopover.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/confirm/ConfirmPopover.js" />
       </list>
     </option>
   </component>
@@ -2649,8 +2657,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="this is better than the default image for now..." />
-    <MESSAGE value="must use the PNg for now" />
     <MESSAGE value="way better intro..." />
     <MESSAGE value="updated typo..." />
     <MESSAGE value="simple page debug..." />
@@ -2674,7 +2680,9 @@
     <MESSAGE value="updated downloads now..." />
     <MESSAGE value="wrong shields URL..." />
     <MESSAGE value="docs update..." />
-    <option name="LAST_COMMIT_MESSAGE" value="docs update..." />
+    <MESSAGE value="favicon and embedded videos.. they're not perfect but baby steps." />
+    <MESSAGE value="final videos..." />
+    <option name="LAST_COMMIT_MESSAGE" value="final videos..." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/screenshots/annotations.png">
@@ -2914,17 +2922,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/download.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="92" lean-forward="true" selection-start-line="17" selection-start-column="92" selection-end-line="17" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="306" column="34" selection-start-line="306" selection-start-column="34" selection-end-line="306" selection-end-column="34" />
+        <state relative-caret-position="87">
+          <caret line="333" column="20" lean-forward="true" selection-start-line="333" selection-start-column="20" selection-end-line="333" selection-end-column="20" />
           <folding>
             <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -2946,6 +2947,13 @@
             <element signature="n#style#0;n#div#2;n#form#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/download.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="66" lean-forward="true" selection-start-line="2" selection-start-column="66" selection-end-line="2" selection-end-column="66" />
         </state>
       </provider>
     </entry>
