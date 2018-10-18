@@ -24,8 +24,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f24d8ef-44fb-4fe5-b629-6a67a48a57be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mailchimp-iframe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/burton.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/burton.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug-ga.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -40,7 +39,7 @@
     <session id="1237626177">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="13" />
+          <entry key="project.closed" value="14" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="2" />
@@ -50,15 +49,15 @@
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="16" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="3" />
           <entry key="hbs" value="1" />
-          <entry key="html" value="16" />
+          <entry key="html" value="17" />
           <entry key="include" value="1" />
           <entry key="js" value="5" />
           <entry key="json" value="2" />
@@ -73,7 +72,7 @@
         <counts>
           <entry key="Bash" value="5" />
           <entry key="CSS" value="3" />
-          <entry key="HTML" value="17" />
+          <entry key="HTML" value="18" />
           <entry key="Handlebars/Mustache" value="10" />
           <entry key="Image" value="17" />
           <entry key="JSON" value="2" />
@@ -86,27 +85,27 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Bash" value="3" />
-          <entry key="css" value="305" />
+          <entry key="css" value="445" />
           <entry key="hbs" value="20" />
-          <entry key="html" value="10640" />
+          <entry key="html" value="10717" />
           <entry key="js" value="296" />
           <entry key="json" value="2" />
           <entry key="md" value="2358" />
           <entry key="mustache" value="248" />
           <entry key="sh" value="331" />
-          <entry key="txt" value="1648" />
+          <entry key="txt" value="1772" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Bash" value="334" />
-          <entry key="CSS" value="305" />
-          <entry key="HTML" value="10660" />
+          <entry key="CSS" value="445" />
+          <entry key="HTML" value="10737" />
           <entry key="Handlebars/Mustache" value="248" />
           <entry key="JSON" value="2" />
           <entry key="JavaScript" value="296" />
           <entry key="Markdown" value="2358" />
-          <entry key="PLAIN_TEXT" value="1648" />
+          <entry key="PLAIN_TEXT" value="1772" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -119,8 +118,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="568" column="109" lean-forward="true" selection-start-line="568" selection-start-column="109" selection-end-line="568" selection-end-column="109" />
+            <state relative-caret-position="392">
+              <caret line="123" column="34" selection-start-line="123" selection-start-column="34" selection-end-line="123" selection-end-column="34" />
               <folding>
                 <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#iframe#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -128,14 +127,6 @@
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#section#6;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -145,10 +136,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/legacy.rnc">
+        <entry file="file://$PROJECT_DIR$/debug-ga.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="382">
-              <caret line="1133" column="18" selection-start-line="1133" selection-start-column="18" selection-end-line="1133" selection-end-column="18" />
+            <state relative-caret-position="187">
+              <caret line="11" column="71" lean-forward="true" selection-start-line="11" selection-start-column="71" selection-end-line="11" selection-end-column="71" />
             </state>
           </provider>
         </entry>
@@ -171,8 +162,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+            <state relative-caret-position="529">
+              <caret line="96" column="84" lean-forward="true" selection-start-line="96" selection-start-column="84" selection-end-line="96" selection-end-column="84" />
+              <folding>
+                <marker date="1539872365654" expanded="true" signature="593:616" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -180,12 +174,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/download.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="957">
+            <state relative-caret-position="4148">
               <caret line="244" selection-start-line="244" selection-end-line="244" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -194,8 +186,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/download.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="62" lean-forward="true" selection-start-line="19" selection-start-column="62" selection-end-line="19" selection-end-column="62" />
+            <state relative-caret-position="238">
+              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -247,14 +239,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>fdb</find>
-      <find>knowl</find>
-      <find>auto</find>
-      <find>ml-auto</find>
-      <find>mr-auto</find>
-      <find>font-size</find>
-      <find>window</find>
-      <find>bo</find>
       <find>border</find>
       <find>border border-dark rounde</find>
       <find>macos</find>
@@ -277,6 +261,14 @@
       <find>iframe</find>
       <find>&lt;iframe</find>
       <find>mailchim</find>
+      <find>index.html</find>
+      <find>1.0.1</find>
+      <find>discord</find>
+      <find>jump</find>
+      <find>POLAR</find>
+      <find>logo</find>
+      <find>color</find>
+      <find>btn</find>
     </findStrings>
     <replaceStrings>
       <replace>draggable=&quot;false&quot;</replace>
@@ -287,7 +279,11 @@
       <replace>v1.0.0</replace>
       <replace>1.0.0</replace>
       <replace>1.0.1</replace>
+      <replace>1.0.2</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -324,8 +320,10 @@
         <option value="$PROJECT_DIR$/partials/footer.mustache" />
         <option value="$PROJECT_DIR$/TODO.md" />
         <option value="$PROJECT_DIR$/download.html" />
-        <option value="$PROJECT_DIR$/download.js" />
         <option value="$PROJECT_DIR$/mailchimp-iframe.html" />
+        <option value="$PROJECT_DIR$/download.js" />
+        <option value="$PROJECT_DIR$/debug.html" />
+        <option value="$PROJECT_DIR$/debug-ga.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
@@ -359,8 +357,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -455,21 +453,8 @@
       <workItem from="1537903454200" duration="13592000" />
       <workItem from="1538157607336" duration="599000" />
       <workItem from="1538248026324" duration="4836000" />
-      <workItem from="1538335046538" duration="54343000" />
-    </task>
-    <task id="LOCAL-00006" summary="Fixed navbar...">
-      <created>1537114104582</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1537114104582</updated>
-    </task>
-    <task id="LOCAL-00007" summary="just link to relases page for now.">
-      <created>1537114228052</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1537114228052</updated>
+      <workItem from="1538335046538" duration="56249000" />
+      <workItem from="1539639194786" duration="3647000" />
     </task>
     <task id="LOCAL-00008" summary="updated navbar.. site is fully baked just not perfect.">
       <created>1537114609108</created>
@@ -800,21 +785,34 @@
       <option name="project" value="LOCAL" />
       <updated>1539369150821</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="added a mailchimp form above the fold to try to get more subscribers without being obnoxious.. yet.">
+      <created>1539375077751</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1539375077751</updated>
+    </task>
+    <task id="LOCAL-00056" summary="wrong link...">
+      <created>1539724747357</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1539724747357</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116310000" />
+    <option name="totallyTimeSpent" value="121863000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="612" y="277" width="1742" height="1268" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4991708" visible="true" weight="0.25677267" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4991708" visible="true" weight="0.25971732" />
       <window_info id="Structure" order="1" sideWeight="0.50082916" side_tool="true" weight="0.24967062" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3293919" />
@@ -829,6 +827,7 @@
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.32877883" />
       <window_info anchor="bottom" id="JProfiler" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -873,6 +872,10 @@
     <option name="version" value="1" />
     <option name="exactExcludedFiles">
       <list>
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/confirm-button/CustomDropdown.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/confirm-button/CustomDropdown.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/DocDropdown.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/DocDropdown.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/boxes/controller/BoxOptions.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/boxes/controller/BoxMoveEvent.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/boxes/controller/BoxController.js" />
@@ -1300,7 +1303,9 @@
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/pagemarks/view/placement/PlacedPagemarkCalculator.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/pagemarks/view/placement/PlacedPagemark.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/pagemarks/view/placement/PlacedPagemark.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/datastore/FirebaseDatastore.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/pagemarks/view/placement/PlacedPagemarkCalculatorTest.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/datastore/FirebaseDatastore.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/highlights/text/view/SimpleHighlightRenderer.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/highlights/text/view/SimpleHighlightRenderer.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/highlights/text/view/TextHighlightView2.js" />
@@ -2143,8 +2148,6 @@
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/annotation_sidebar/AnnotationSidebarService.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/firebase-auth/index.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/firebase-auth/test.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/firebase-auth/FirebaseUIAuth.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/firebase-auth/FirebaseUIAuth.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/firebase-auth/index.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/firebase-auth/content.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/annotation_sidebar/DocAnnotation.js.map" />
@@ -2153,10 +2156,8 @@
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/electron/webresource/AppPaths.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/firebase-auth/spec.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/firebase-auth/test.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/firebase-auth/Firebase.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/firebase-auth/spec.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/firebase-auth/content.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/firebase-auth/Firebase.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/backend/webserver/WebserverConfig.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/backend/webserver/Webserver.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/backend/webserver/WebserverConfig.js" />
@@ -2555,7 +2556,9 @@
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/popup/RangeReferenceObject.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/popup/PointReferenceObject.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/popup/TextNodeReferenceObject.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/confirm/ConfirmButton.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/popup/Popup.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/confirm/ConfirmButton.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/popup/TextNodeReferenceObject.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/comments-popup-box/spec.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/comments-popup-box/app.js" />
@@ -2584,12 +2587,19 @@
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/MockRects.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/Rects.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/HashcodesTest.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/confirm-button/App.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/RectsTest.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/confirm-button/content.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/Rect.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/confirm-button/content.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/HashcodesTest.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/confirm-button/index.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/Rect.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/confirm-button/index.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/Point.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/confirm-button/spec.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/Electron.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/confirm-button/spec.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/Preconditions.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/Test.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/PreconditionsTest.js" />
@@ -2599,6 +2609,7 @@
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/Test.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/Hashcodes.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/Rects.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/confirm-button/App.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/metadata/Target.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/metadata/Target.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/TypedMessage.js" />
@@ -2606,12 +2617,20 @@
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/metadata/Comments.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/main.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/main.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/datastore/Backend.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/comments/react/CommentInputEvent.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/datastore/Backend.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/comments/react/CommentInputEvent.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/metadata/Links.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/metadata/Links.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/updates/ManualUpdates.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/updates/ManualUpdates.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/MessageBanner.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/MessageBanner.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/tags/TypedTag.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/tags/TypedTag.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/confirm/ConfirmPopover.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/confirm/ConfirmPopover.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/selection_listener/SelectionListener.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/selection_listener/SelectionListener.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/popup/TriggerPopupEvent.js.map" />
@@ -2640,27 +2659,25 @@
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/comments/react/HighlightCreatedEvent.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/comments/react/HighlightCreatedEvent.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/comments/react/CommentCreatedEvent.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/text_input/TextInputButton.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/text_input/TextInputButton.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/text_input/TextInputPopover.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/text_input/TextInputPopover.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/proxies/ProxyHandler.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/confirm/ConfirmButton.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/confirm/ConfirmButton.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/confirm-button/App.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/confirm-button/App.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/confirm-button/content.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/confirm-button/content.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/confirm-button/index.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/confirm-button/index.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/confirm-button/spec.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/confirm-button/spec.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/datastore/Backend.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/datastore/Backend.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/MessageBanner.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/MessageBanner.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/tags/TypedTag.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/tags/TypedTag.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/text_input_button/TextInputButton.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/text_input_button/TextInputButton.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/confirm/ConfirmPopover.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/confirm/ConfirmPopover.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/firestore/Firestore.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/firestore/Firestore.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/firestore/Firebase.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/firestore/Firebase.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/firestore/FirebaseUIAuth.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/firestore/FirebaseUIAuth.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/annotationbar/AnnotationBar2.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/annotationbar/AnnotationBar2.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/react-ga/content.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/react-ga/content.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/react-ga/index.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/react-ga/index.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/react-ga/spec.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/react-ga/spec.js" />
       </list>
     </option>
   </component>
@@ -2670,8 +2687,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="simple page debug..." />
-    <MESSAGE value="new page content..." />
     <MESSAGE value="the tilting works just doesn't look perfect yet." />
     <MESSAGE value="rework to get more white space and a better tilt effect..." />
     <MESSAGE value="... document repository work.." />
@@ -2695,7 +2710,9 @@
     <MESSAGE value="final videos..." />
     <MESSAGE value="proper download version..." />
     <MESSAGE value="...fixing site..." />
-    <option name="LAST_COMMIT_MESSAGE" value="...fixing site..." />
+    <MESSAGE value="added a mailchimp form above the fold to try to get more subscribers without being obnoxious.. yet." />
+    <MESSAGE value="wrong link..." />
+    <option name="LAST_COMMIT_MESSAGE" value="wrong link..." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/screenshots/annotations.png">
@@ -2836,10 +2853,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2881,6 +2894,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/legacy.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19261">
+          <caret line="1133" column="18" selection-start-line="1133" selection-start-column="18" selection-end-line="1133" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mailchimp-iframe.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+          <folding>
+            <element signature="n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/download.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4148">
+          <caret line="244" selection-start-line="244" selection-end-line="244" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/TODO.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -2916,56 +2959,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/download.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="957">
-          <caret line="244" selection-start-line="244" selection-end-line="244" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/download.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="62" lean-forward="true" selection-start-line="19" selection-start-column="62" selection-end-line="19" selection-end-column="62" />
+        <state relative-caret-position="238">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mailchimp-iframe.html">
+    <entry file="file://$PROJECT_DIR$/debug-ga.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-          <folding>
-            <element signature="n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="187">
+          <caret line="11" column="71" lean-forward="true" selection-start-line="11" selection-start-column="71" selection-end-line="11" selection-end-column="71" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/legacy.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="1133" column="18" selection-start-line="1133" selection-start-column="18" selection-end-line="1133" selection-end-column="18" />
+        <state relative-caret-position="529">
+          <caret line="96" column="84" lean-forward="true" selection-start-line="96" selection-start-column="84" selection-end-line="96" selection-end-column="84" />
+          <folding>
+            <marker date="1539872365654" expanded="true" signature="593:616" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="568" column="109" lean-forward="true" selection-start-line="568" selection-start-column="109" selection-end-line="568" selection-end-column="109" />
+        <state relative-caret-position="392">
+          <caret line="123" column="34" selection-start-line="123" selection-start-column="34" selection-end-line="123" selection-end-column="34" />
           <folding>
             <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#iframe#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -2973,14 +2994,6 @@
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#section#6;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
