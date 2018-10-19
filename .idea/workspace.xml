@@ -24,8 +24,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f24d8ef-44fb-4fe5-b629-6a67a48a57be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/debug/multi-lang.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -91,7 +91,7 @@
           <entry key="md" value="2358" />
           <entry key="mustache" value="248" />
           <entry key="sh" value="331" />
-          <entry key="txt" value="1846" />
+          <entry key="txt" value="1881" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -103,7 +103,7 @@
           <entry key="JSON" value="2" />
           <entry key="JavaScript" value="296" />
           <entry key="Markdown" value="2358" />
-          <entry key="PLAIN_TEXT" value="1846" />
+          <entry key="PLAIN_TEXT" value="1881" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -113,11 +113,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="111" column="16" lean-forward="true" selection-start-line="111" selection-start-column="16" selection-end-line="111" selection-end-column="16" />
+            <state relative-caret-position="906">
+              <caret line="642" lean-forward="true" selection-start-line="642" selection-end-line="642" />
               <folding>
                 <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#iframe#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -145,11 +145,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/debug/multi-lang.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1022">
-              <caret line="90" selection-start-line="90" selection-end-line="90" />
+            <state relative-caret-position="255">
+              <caret line="15" column="67" selection-start-line="15" selection-start-column="67" selection-end-line="15" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -231,8 +231,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>border</find>
-      <find>border border-dark rounde</find>
       <find>macos</find>
       <find>data-par</find>
       <find>fa</find>
@@ -261,6 +259,8 @@
       <find>logo</find>
       <find>color</find>
       <find>btn</find>
+      <find>gdpr</find>
+      <find>consent</find>
     </findStrings>
     <replaceStrings>
       <replace>draggable=&quot;false&quot;</replace>
@@ -317,8 +317,8 @@
         <option value="$PROJECT_DIR$/debug.html" />
         <option value="$PROJECT_DIR$/debug-ga.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/debug/multi-lang.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -447,14 +447,7 @@
       <workItem from="1538157607336" duration="599000" />
       <workItem from="1538248026324" duration="4836000" />
       <workItem from="1538335046538" duration="56249000" />
-      <workItem from="1539639194786" duration="4909000" />
-    </task>
-    <task id="LOCAL-00009" summary="...">
-      <created>1537114733023</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1537114733023</updated>
+      <workItem from="1539639194786" duration="5669000" />
     </task>
     <task id="LOCAL-00010" summary="Add logos.. make image fluid..">
       <created>1537364604038</created>
@@ -792,11 +785,18 @@
       <option name="project" value="LOCAL" />
       <updated>1539872521511</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="multi-lang html file for testing...">
+      <created>1539957970001</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1539957970002</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123125000" />
+    <option name="totallyTimeSpent" value="123885000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="341" y="250" width="1742" height="1268" extended-state="0" />
@@ -2679,6 +2679,14 @@
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/ReducersTest.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/reactstrap/ListSelector.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/reactstrap/ListSelector.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/lightbox_popover/LightboxPopover.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/lightbox_popover/LightboxPopover.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/datastore/Settings.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/datastore/Settings.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/reactstrap/TableDropdown.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/reactstrap/ListSelectorPopover.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/reactstrap/TableDropdown.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/reactstrap/ListSelectorPopover.js.map" />
       </list>
     </option>
   </component>
@@ -2688,7 +2696,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="rework to get more white space and a better tilt effect..." />
     <MESSAGE value="... document repository work.." />
     <MESSAGE value="cleanup..." />
     <MESSAGE value="new site..." />
@@ -2713,7 +2720,8 @@
     <MESSAGE value="added a mailchimp form above the fold to try to get more subscribers without being obnoxious.. yet." />
     <MESSAGE value="wrong link..." />
     <MESSAGE value="debug page for testing ga... &#10;&#10;added blog link to the site..." />
-    <option name="LAST_COMMIT_MESSAGE" value="debug page for testing ga... &#10;&#10;added blog link to the site..." />
+    <MESSAGE value="multi-lang html file for testing..." />
+    <option name="LAST_COMMIT_MESSAGE" value="multi-lang html file for testing..." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/screenshots/annotations.png">
@@ -2974,24 +2982,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="111" column="16" lean-forward="true" selection-start-line="111" selection-start-column="16" selection-end-line="111" selection-end-column="16" />
-          <folding>
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#iframe#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#section#6;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/debug/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -3004,8 +2994,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/debug/multi-lang.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1022">
-          <caret line="90" selection-start-line="90" selection-end-line="90" />
+        <state relative-caret-position="255">
+          <caret line="15" column="67" selection-start-line="15" selection-start-column="67" selection-end-line="15" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="906">
+          <caret line="642" lean-forward="true" selection-start-line="642" selection-end-line="642" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#6;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
