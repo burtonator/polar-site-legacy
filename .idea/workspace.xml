@@ -24,10 +24,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f24d8ef-44fb-4fe5-b629-6a67a48a57be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/debug-ga.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug/multi-lang.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,11 +55,11 @@
         <counts>
           <entry key="css" value="3" />
           <entry key="hbs" value="1" />
-          <entry key="html" value="17" />
+          <entry key="html" value="18" />
           <entry key="include" value="1" />
           <entry key="js" value="5" />
           <entry key="json" value="2" />
-          <entry key="md" value="3" />
+          <entry key="md" value="4" />
           <entry key="mustache" value="12" />
           <entry key="png" value="17" />
           <entry key="rnc" value="2" />
@@ -72,12 +70,12 @@
         <counts>
           <entry key="Bash" value="5" />
           <entry key="CSS" value="3" />
-          <entry key="HTML" value="18" />
+          <entry key="HTML" value="19" />
           <entry key="Handlebars/Mustache" value="10" />
           <entry key="Image" value="17" />
           <entry key="JSON" value="2" />
           <entry key="JavaScript" value="5" />
-          <entry key="Markdown" value="3" />
+          <entry key="Markdown" value="4" />
           <entry key="PLAIN_TEXT" value="3" />
           <entry key="RNG Compact" value="2" />
         </counts>
@@ -87,25 +85,25 @@
           <entry key="Bash" value="3" />
           <entry key="css" value="445" />
           <entry key="hbs" value="20" />
-          <entry key="html" value="10717" />
+          <entry key="html" value="10772" />
           <entry key="js" value="296" />
           <entry key="json" value="2" />
           <entry key="md" value="2358" />
           <entry key="mustache" value="248" />
           <entry key="sh" value="331" />
-          <entry key="txt" value="1772" />
+          <entry key="txt" value="1846" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Bash" value="334" />
           <entry key="CSS" value="445" />
-          <entry key="HTML" value="10737" />
+          <entry key="HTML" value="10792" />
           <entry key="Handlebars/Mustache" value="248" />
           <entry key="JSON" value="2" />
           <entry key="JavaScript" value="296" />
           <entry key="Markdown" value="2358" />
-          <entry key="PLAIN_TEXT" value="1772" />
+          <entry key="PLAIN_TEXT" value="1846" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -115,11 +113,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="123" column="34" selection-start-line="123" selection-start-column="34" selection-end-line="123" selection-end-column="34" />
+            <state relative-caret-position="188">
+              <caret line="111" column="16" lean-forward="true" selection-start-line="111" selection-start-column="16" selection-end-line="111" selection-end-column="16" />
               <folding>
                 <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#iframe#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -136,25 +134,31 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/debug-ga.html">
+        <entry file="file://$PROJECT_DIR$/debug/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="51">
+                <caret line="3" selection-start-line="3" selection-end-line="3" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/debug/multi-lang.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="71" lean-forward="true" selection-start-line="11" selection-start-column="71" selection-end-line="11" selection-end-column="71" />
+            <state relative-caret-position="1022">
+              <caret line="90" selection-start-line="90" selection-end-line="90" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mailchimp-iframe.html">
+        <entry file="file://$PROJECT_DIR$/debug-ga.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-              <folding>
-                <element signature="n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="187">
+              <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -163,21 +167,9 @@
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="529">
-              <caret line="96" column="84" lean-forward="true" selection-start-line="96" selection-start-column="84" selection-end-line="96" selection-end-column="84" />
+              <caret line="96" column="49" selection-start-line="96" selection-start-column="49" selection-end-line="96" selection-end-column="49" />
               <folding>
                 <marker date="1539872365654" expanded="true" signature="593:616" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/download.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4148">
-              <caret line="244" selection-start-line="244" selection-end-line="244" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -326,6 +318,7 @@
         <option value="$PROJECT_DIR$/debug-ga.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/debug/multi-lang.html" />
       </list>
     </option>
   </component>
@@ -344,8 +337,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="612" />
-    <option name="y" value="277" />
+    <option name="x" value="341" />
+    <option name="y" value="250" />
     <option name="width" value="1742" />
     <option name="height" value="1268" />
   </component>
@@ -369,7 +362,7 @@
             <path>
               <item name="polar-site" type="b2602c69:ProjectViewProjectNode" />
               <item name="polar-site" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="debug" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -454,14 +447,7 @@
       <workItem from="1538157607336" duration="599000" />
       <workItem from="1538248026324" duration="4836000" />
       <workItem from="1538335046538" duration="56249000" />
-      <workItem from="1539639194786" duration="3647000" />
-    </task>
-    <task id="LOCAL-00008" summary="updated navbar.. site is fully baked just not perfect.">
-      <created>1537114609108</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1537114609108</updated>
+      <workItem from="1539639194786" duration="4909000" />
     </task>
     <task id="LOCAL-00009" summary="...">
       <created>1537114733023</created>
@@ -799,14 +785,21 @@
       <option name="project" value="LOCAL" />
       <updated>1539724747357</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="debug page for testing ga... &#10;&#10;added blog link to the site...">
+      <created>1539872521511</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1539872521511</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="121863000" />
+    <option name="totallyTimeSpent" value="123125000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="612" y="277" width="1742" height="1268" extended-state="0" />
+    <frame x="341" y="250" width="1742" height="1268" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4991708" visible="true" weight="0.25971732" />
@@ -2678,6 +2671,14 @@
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/react-ga/index.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/react-ga/spec.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/react-ga/spec.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/react/IStyleMap.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/react/IStyleMap.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Reducers.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Reducers.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/ReducersTest.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/ReducersTest.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/reactstrap/ListSelector.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/reactstrap/ListSelector.js.map" />
       </list>
     </option>
   </component>
@@ -2687,7 +2688,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="the tilting works just doesn't look perfect yet." />
     <MESSAGE value="rework to get more white space and a better tilt effect..." />
     <MESSAGE value="... document repository work.." />
     <MESSAGE value="cleanup..." />
@@ -2712,7 +2712,8 @@
     <MESSAGE value="...fixing site..." />
     <MESSAGE value="added a mailchimp form above the fold to try to get more subscribers without being obnoxious.. yet." />
     <MESSAGE value="wrong link..." />
-    <option name="LAST_COMMIT_MESSAGE" value="wrong link..." />
+    <MESSAGE value="debug page for testing ga... &#10;&#10;added blog link to the site..." />
+    <option name="LAST_COMMIT_MESSAGE" value="debug page for testing ga... &#10;&#10;added blog link to the site..." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/screenshots/annotations.png">
@@ -2816,16 +2817,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/debug/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="51">
-            <caret line="3" selection-start-line="3" selection-end-line="3" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -2969,14 +2960,14 @@
     <entry file="file://$PROJECT_DIR$/debug-ga.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" column="71" lean-forward="true" selection-start-line="11" selection-start-column="71" selection-end-line="11" selection-end-column="71" />
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="529">
-          <caret line="96" column="84" lean-forward="true" selection-start-line="96" selection-start-column="84" selection-end-line="96" selection-end-column="84" />
+          <caret line="96" column="49" selection-start-line="96" selection-start-column="49" selection-end-line="96" selection-end-column="49" />
           <folding>
             <marker date="1539872365654" expanded="true" signature="593:616" ph="..." />
           </folding>
@@ -2985,8 +2976,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="123" column="34" selection-start-line="123" selection-start-column="34" selection-end-line="123" selection-end-column="34" />
+        <state relative-caret-position="188">
+          <caret line="111" column="16" lean-forward="true" selection-start-line="111" selection-start-column="16" selection-end-line="111" selection-end-column="16" />
           <folding>
             <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#iframe#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -2998,6 +2989,23 @@
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/debug/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="51">
+            <caret line="3" selection-start-line="3" selection-end-line="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/debug/multi-lang.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1022">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
         </state>
       </provider>
     </entry>
