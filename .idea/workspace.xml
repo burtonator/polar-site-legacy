@@ -24,8 +24,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f24d8ef-44fb-4fe5-b629-6a67a48a57be" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/burton.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/burton.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/download.html" beforeDir="false" afterPath="$PROJECT_DIR$/download.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/download.js" beforeDir="false" afterPath="$PROJECT_DIR$/download.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,10 +39,10 @@
     <session id="1237626177">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
+          <entry key="project.closed" value="15" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.10" value="3" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.2" value="1" />
@@ -48,14 +50,14 @@
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="17" />
+          <entry key="project.opened" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="3" />
           <entry key="hbs" value="1" />
-          <entry key="html" value="18" />
+          <entry key="html" value="19" />
           <entry key="include" value="1" />
           <entry key="js" value="5" />
           <entry key="json" value="2" />
@@ -70,7 +72,7 @@
         <counts>
           <entry key="Bash" value="5" />
           <entry key="CSS" value="3" />
-          <entry key="HTML" value="19" />
+          <entry key="HTML" value="20" />
           <entry key="Handlebars/Mustache" value="10" />
           <entry key="Image" value="17" />
           <entry key="JSON" value="2" />
@@ -85,25 +87,25 @@
           <entry key="Bash" value="3" />
           <entry key="css" value="445" />
           <entry key="hbs" value="20" />
-          <entry key="html" value="10772" />
-          <entry key="js" value="296" />
+          <entry key="html" value="11047" />
+          <entry key="js" value="304" />
           <entry key="json" value="2" />
           <entry key="md" value="2358" />
           <entry key="mustache" value="248" />
           <entry key="sh" value="331" />
-          <entry key="txt" value="1881" />
+          <entry key="txt" value="1914" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Bash" value="334" />
           <entry key="CSS" value="445" />
-          <entry key="HTML" value="10792" />
+          <entry key="HTML" value="11067" />
           <entry key="Handlebars/Mustache" value="248" />
           <entry key="JSON" value="2" />
-          <entry key="JavaScript" value="296" />
+          <entry key="JavaScript" value="304" />
           <entry key="Markdown" value="2358" />
-          <entry key="PLAIN_TEXT" value="1881" />
+          <entry key="PLAIN_TEXT" value="1914" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -113,26 +115,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="906">
-              <caret line="642" lean-forward="true" selection-start-line="642" selection-end-line="642" />
-              <folding>
-                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#iframe#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#section#6;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/debug/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -166,7 +148,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
+            <state relative-caret-position="1632">
               <caret line="96" column="49" selection-start-line="96" selection-start-column="49" selection-end-line="96" selection-end-column="49" />
               <folding>
                 <marker date="1539872365654" expanded="true" signature="593:616" ph="..." />
@@ -178,8 +160,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/download.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            <state relative-caret-position="119">
+              <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/download.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="232" selection-start-line="232" selection-end-line="232" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -231,8 +225,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>macos</find>
-      <find>data-par</find>
       <find>fa</find>
       <find>height</find>
       <find>download</find>
@@ -261,6 +253,8 @@
       <find>btn</find>
       <find>gdpr</find>
       <find>consent</find>
+      <find>1.0.2</find>
+      <find>1.0.3</find>
     </findStrings>
     <replaceStrings>
       <replace>draggable=&quot;false&quot;</replace>
@@ -272,6 +266,8 @@
       <replace>1.0.0</replace>
       <replace>1.0.1</replace>
       <replace>1.0.2</replace>
+      <replace>1.0.3</replace>
+      <replace>1.0.4</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -311,14 +307,14 @@
         <option value="$PROJECT_DIR$/test.html" />
         <option value="$PROJECT_DIR$/partials/footer.mustache" />
         <option value="$PROJECT_DIR$/TODO.md" />
-        <option value="$PROJECT_DIR$/download.html" />
         <option value="$PROJECT_DIR$/mailchimp-iframe.html" />
-        <option value="$PROJECT_DIR$/download.js" />
         <option value="$PROJECT_DIR$/debug.html" />
         <option value="$PROJECT_DIR$/debug-ga.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/debug/multi-lang.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/download.js" />
+        <option value="$PROJECT_DIR$/download.html" />
       </list>
     </option>
   </component>
@@ -447,21 +443,8 @@
       <workItem from="1538157607336" duration="599000" />
       <workItem from="1538248026324" duration="4836000" />
       <workItem from="1538335046538" duration="56249000" />
-      <workItem from="1539639194786" duration="5669000" />
-    </task>
-    <task id="LOCAL-00010" summary="Add logos.. make image fluid..">
-      <created>1537364604038</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1537364604038</updated>
-    </task>
-    <task id="LOCAL-00011" summary="... use a title now...">
-      <created>1537388001163</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1537388001163</updated>
+      <workItem from="1539639194786" duration="6500000" />
+      <workItem from="1540165669688" duration="779000" />
     </task>
     <task id="LOCAL-00012" summary="...">
       <created>1537407022423</created>
@@ -792,17 +775,31 @@
       <option name="project" value="LOCAL" />
       <updated>1539957970002</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="disable cookie consent for now..k">
+      <created>1539958837456</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1539958837457</updated>
+    </task>
+    <task id="LOCAL-00060" summary="disable cookie consent for now..k">
+      <created>1539959056769</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1539959056769</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123885000" />
+    <option name="totallyTimeSpent" value="125495000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="341" y="250" width="1742" height="1268" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4991708" visible="true" weight="0.25971732" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4991708" visible="true" weight="0.26266196" />
       <window_info id="Structure" order="1" sideWeight="0.50082916" side_tool="true" weight="0.24967062" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -865,6 +862,7 @@
     <option name="version" value="1" />
     <option name="exactExcludedFiles">
       <list>
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/firestore/FirebaseUIAuth.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/confirm-button/CustomDropdown.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/confirm-button/CustomDropdown.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/DocDropdown.js" />
@@ -1035,11 +1033,13 @@
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ws/WSTest.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/test/sandbox/web-workers2/test.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/test/sandbox/web-workers2/test.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/firestore/Firebase.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/repository-app/spec.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/repository-app/app.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/repository-app/app.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/repository-app/spec.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/repository-app/index.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/firestore/Firebase.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/repository-app/index.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/web-worker/TypedWorker.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/web-worker/index.js" />
@@ -1227,6 +1227,7 @@
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/rects/IXYRect.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/sync/framework/anki/clients/FindNotesClient.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/sync/framework/anki/clients/AddNotesClient.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/firestore/FirebaseUIAuth.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/sync/framework/anki/clients/NotesInfoClient.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/sync/framework/anki/clients/StoreMediaFileClient.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/sync/framework/anki/clients/UpdateNoteFieldsClient.js.map" />
@@ -1318,9 +1319,11 @@
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/components/containers/lifecycle/impl/DefaultContainerLifecycleListener.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/components/containers/lifecycle/impl/ThumbnailContainerLifecycleListener.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/components/containers/lifecycle/impl/DefaultContainerLifecycleListener.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/firestore/Firestore.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/components/containers/lifecycle/impl/AbstractContainerLifecycleListener.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/components/containers/lifecycle/impl/ThumbnailContainerLifecycleListener.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/components/containers/lifecycle/impl/AbstractContainerLifecycleListener.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/firestore/Firestore.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/main/ipc/MainAppService.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/apps/main/ipc/LoadDocRequest.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/components/containers/providers/impl/ThumbnailContainerProvider.js.map" />
@@ -1617,8 +1620,11 @@
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/ui-notifier/index.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/selected-contents2/spec.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/selected-contents2/app.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/ui-components/spec.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/selected-contents2/app.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/ui-components/spec.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/selected-contents2/spec.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/ui-components/index.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/test/sandbox/preload-with-iframes/app.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/test/sandbox/preload-with-iframes/preload.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/test/sandbox/preload-with-iframes/app.js.map" />
@@ -1632,12 +1638,17 @@
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/capture/controller/CaptureClient.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/capture/controller/StartCaptureApp.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/capture/controller/ProgressApp.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/ui-components/App.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/capture/controller/CaptureClient.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/ui-components/App.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/capture/controller/StartCaptureApp.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/capture/controller/StartCaptureUI.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/view/View.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/ui-components/index.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/view/WebView.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/ui-components/content.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/mouse/MouseTracer.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/ui-components/content.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/mouse/MouseTracer.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/capture/controller/ProgressUI.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/capture/controller/ProgressApp.js" />
@@ -1722,7 +1733,9 @@
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/backend/proxyserver/CachedRequest.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/backend/proxyserver/BufferedCacheEntry.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/backend/proxyserver/CacheEntriesFactory.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/ResolveablePromise.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/backend/proxyserver/PHZCacheEntry.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/ResolveablePromise.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/screenshots/ScreenshotService.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/screenshots/CapturedScreenshots.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/backend/proxyserver/CachedRequestsHolder.js.map" />
@@ -1766,10 +1779,14 @@
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ipc/handler/IPCResponse.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ipc/handler/IPCRegistry.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ipc/handler/IPCEvent.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/datastore/HybridDatastore.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ipc/handler/IPCSender.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/datastore/HybridDatastore.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ipc/handler/IPCHandler.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ipc/handler/IPCSender.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/datastore/Synchronizer.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ipc/handler/IPCError.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/datastore/Synchronizer.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ipc/handler/IPCClients.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ipc/handler/IPCRegistration.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ipc/handler/IPCClients.js" />
@@ -1868,7 +1885,9 @@
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/test/sandbox/jquery-ui/index.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/test/sandbox/jquery-ui/index.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/selected-contents/index.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/PolarCookiePolicy.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/selected-contents/index.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/PolarCookiePolicy.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/dialog-window/spec.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/dialog-window/app.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/dialog-window/app.js.map" />
@@ -2012,7 +2031,9 @@
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/metadata/PageMetas.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/metadata/AnnotationDescriptor.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/metadata/DocInfo.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/datastore/Settings.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/metadata/Pagemarks.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/datastore/Settings.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/metadata/DocDetails.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/metadata/AnnotationDescriptor.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/metadata/Question.js.map" />
@@ -2035,6 +2056,7 @@
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/metadata/Symbol.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/metadata/Attachment.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/metadata/DocMetasTest.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/lightbox_popover/LightboxPopover.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/metadata/AnnotationRects.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/metadata/DocMetas.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/metadata/AreaHighlights.js" />
@@ -2052,6 +2074,7 @@
         <option value="$PROJECT_DIR$/../polar-bookshelf/apps/capture-webview/index.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/apps/capture-webview/index.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/capture/renderer/ContentCaptureFunctions.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/lightbox_popover/LightboxPopover.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/capture/renderer/TimeoutEvent.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/capture/renderer/ContentCaptureApp.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/capture/renderer/ContentCaptureClient.js.map" />
@@ -2109,10 +2132,14 @@
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/CacheInterceptorService/index.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/dialog-window-service/spec.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/dialog-window-service/app.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/ReducersTest.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/dialog-window-service/app.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/ReducersTest.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/dialog-window-service/spec.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/dialog-window-service/index.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Reducers.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/dialog-window-service/index.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Reducers.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/webview-test/index.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/annotation_sidebar/AnnotationCommentBox.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/webview-test/spec.js.map" />
@@ -2148,7 +2175,9 @@
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/electron/webresource/AppPaths.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/electron/webresource/AppPaths.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/firebase-auth/spec.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/react/IStyleMap.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/firebase-auth/test.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/react/IStyleMap.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/firebase-auth/spec.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/firebase-auth/content.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/backend/webserver/WebserverConfig.js.map" />
@@ -2173,8 +2202,11 @@
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/annotations/AnnotationPointers.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/annotations/AnnotationPointers.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/annotations/AnnotationPointer.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/react-ga/spec.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/annotations/components/AnnotationEventListener.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/react-ga/spec.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/annotations/components/AnnotationEvent.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/react-ga/index.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ipc/pipes/ElectronMainToBrowserWindowPipe.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ipc/pipes/WindowMessagePipeTest.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ipc/pipes/SyncPipes.js" />
@@ -2192,9 +2224,12 @@
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ipc/pipes/SyncPipe.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ipc/pipes/ElectronRenderToRendererPipe.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ipc/pipes/SyncPipe.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/react-ga/index.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ipc/pipes/ElectronMainReadablePipe.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ipc/pipes/MockPipes.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/react-ga/content.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ipc/pipes/MockPipes.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/react-ga/content.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ipc/pipes/WindowMessagePipeTest.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ipc/pipes/ElectronMainToBrowserWindowPipe.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ipc/pipes/ElectronRendererPipe.js" />
@@ -2656,37 +2691,25 @@
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/text_input/TextInputButton.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/text_input/TextInputPopover.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/text_input/TextInputPopover.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/proxies/ProxyHandler.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/firestore/Firestore.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/firestore/Firestore.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/firestore/Firebase.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/firestore/Firebase.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/firestore/FirebaseUIAuth.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/firestore/FirebaseUIAuth.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/annotationbar/AnnotationBar2.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/annotationbar/AnnotationBar2.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/react-ga/content.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/react-ga/content.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/react-ga/index.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/react-ga/index.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/react-ga/spec.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/react-ga/spec.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/react/IStyleMap.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/react/IStyleMap.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Reducers.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Reducers.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/ReducersTest.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/ReducersTest.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/reactstrap/ListSelector.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/reactstrap/ListSelector.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/lightbox_popover/LightboxPopover.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/lightbox_popover/LightboxPopover.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/datastore/Settings.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/datastore/Settings.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/reactstrap/TableDropdown.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/reactstrap/ListSelectorPopover.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/reactstrap/TableDropdown.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/reactstrap/ListSelectorPopover.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/annotationbar/AnnotationBar2.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/proxies/ProxyHandler.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/firebase-datastore/content.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/firebase-datastore/content.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/firebase-datastore/index.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/firebase-datastore/index.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/firebase-datastore/spec.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/firebase-datastore/spec.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/sync_bar/SyncBar.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/sync_bar/SyncBar.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/TableColumns.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/TableColumns.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/TableDropdown.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/TableDropdown.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/KeyValueMapping.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/KeyValueMapping.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/datastore/SettingsStore.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/datastore/SettingsStore.js" />
       </list>
     </option>
   </component>
@@ -2696,7 +2719,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="... document repository work.." />
     <MESSAGE value="cleanup..." />
     <MESSAGE value="new site..." />
     <MESSAGE value="this is better for now..." />
@@ -2721,7 +2743,8 @@
     <MESSAGE value="wrong link..." />
     <MESSAGE value="debug page for testing ga... &#10;&#10;added blog link to the site..." />
     <MESSAGE value="multi-lang html file for testing..." />
-    <option name="LAST_COMMIT_MESSAGE" value="multi-lang html file for testing..." />
+    <MESSAGE value="disable cookie consent for now..k" />
+    <option name="LAST_COMMIT_MESSAGE" value="disable cookie consent for now..k" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/screenshots/annotations.png">
@@ -2904,21 +2927,57 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8568">
+          <caret line="598" column="32" selection-start-line="598" selection-start-column="32" selection-end-line="598" selection-end-column="32" />
           <folding>
-            <element signature="n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#6;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/download.html">
+    <entry file="file://$PROJECT_DIR$/debug/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="51">
+            <caret line="3" selection-start-line="3" selection-end-line="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/debug/multi-lang.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4148">
-          <caret line="244" selection-start-line="244" selection-end-line="244" />
+        <state relative-caret-position="255">
+          <caret line="15" column="67" selection-start-line="15" selection-start-column="67" selection-end-line="15" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/debug-ga.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1632">
+          <caret line="96" column="49" selection-start-line="96" selection-start-column="49" selection-end-line="96" selection-end-column="49" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1539872365654" expanded="true" signature="593:616" ph="..." />
           </folding>
         </state>
       </provider>
@@ -2960,59 +3019,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/download.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        <state relative-caret-position="119">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/debug-ga.html">
+    <entry file="file://$PROJECT_DIR$/download.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="96" column="49" selection-start-line="96" selection-start-column="49" selection-end-line="96" selection-end-column="49" />
+        <state relative-caret-position="663">
+          <caret line="232" selection-start-line="232" selection-end-line="232" />
           <folding>
-            <marker date="1539872365654" expanded="true" signature="593:616" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/debug/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="51">
-            <caret line="3" selection-start-line="3" selection-end-line="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/debug/multi-lang.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="67" selection-start-line="15" selection-start-column="67" selection-end-line="15" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="906">
-          <caret line="642" lean-forward="true" selection-start-line="642" selection-end-line="642" />
-          <folding>
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#iframe#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#section#6;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

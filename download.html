@@ -215,33 +215,22 @@
             <div class="download-links m-2 text-center">
 
               <a id="download-linux-deb" class="btn btn-success btn-lg m-2" href="#">
-                <i class="fas fa-cloud-download-alt"></i> Download for Ubuntu and Debian
+                <i class="fas fa-cloud-download-alt"></i> Download .deb (Ubuntu and Debian)
               </a>
 
               <a id="download-linux-targz" class="btn btn-success btn-lg m-2" href="#">
                 <i class="fas fa-cloud-download-alt"></i> Download tar.gz
               </a>
 
-              <p>
-                The snap distribution of Polar is probably the easiest to install
-                and can be done from the command line.
-              </p>
+              <a id="download-linux-appimage" class="btn btn-success btn-lg m-2" href="#">
+                <i class="fas fa-cloud-download-alt"></i> Download AppImage
+              </a>
 
               <p>
-                <code>snap install --channel=stable polar-bookshelf</code>
-              </p>
-
-              <p>
-                To update just run:
-              </p>
-
-              <p>
-                <code>snap refresh --channel=stable polar-bookshelf</code>
-              </p>
-
-              <p>
-                Linux builds are also available in .deb for Ubuntu and Debian or tar.gz
-                for static builds.
+                We provide .deb (Ubuntu and Debian) packages. AppImage for easy
+                cross-platform images as well as tar.gz static builds.  We're
+                still working on snap packages (they segfault on startup due to
+                an issue with Sentry and Electron).
               </p>
 
             </div>
