@@ -1,3 +1,6 @@
+// TODO: determine the latest version by calling the github API and finding
+// the latest release and then updating the .js file accordingly.
+
 const downloads = {
 
     "download-win-64": "https://github.com/burtonator/polar-bookshelf/releases/download/v1.0.14/polar-bookshelf-1.0.14-x64.exe",
