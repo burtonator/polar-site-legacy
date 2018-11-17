@@ -37,11 +37,11 @@
     <session id="1237626177">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="17" />
+          <entry key="project.closed" value="18" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="3" />
-          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.11" value="3" />
           <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.17" value="1" />
@@ -50,7 +50,7 @@
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="22" />
+          <entry key="project.opened" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -93,7 +93,7 @@
           <entry key="md" value="2358" />
           <entry key="mustache" value="248" />
           <entry key="sh" value="331" />
-          <entry key="txt" value="1969" />
+          <entry key="txt" value="1987" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -105,7 +105,7 @@
           <entry key="JSON" value="2" />
           <entry key="JavaScript" value="305" />
           <entry key="Markdown" value="2358" />
-          <entry key="PLAIN_TEXT" value="1969" />
+          <entry key="PLAIN_TEXT" value="1987" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -160,8 +160,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/download.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="95" lean-forward="true" selection-start-line="1" selection-start-column="95" selection-end-line="1" selection-end-column="95" />
+            <state relative-caret-position="68">
+              <caret line="4" column="62" lean-forward="true" selection-start-line="4" selection-start-column="62" selection-end-line="4" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -350,6 +350,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -367,7 +368,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -452,14 +452,8 @@
       <workItem from="1540476073225" duration="1367000" />
       <workItem from="1540570142907" duration="2457000" />
       <workItem from="1541173688751" duration="1512000" />
-      <workItem from="1541273443448" duration="1836000" />
-    </task>
-    <task id="LOCAL-00016" summary="...">
-      <created>1537648958844</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1537648958844</updated>
+      <workItem from="1541273443448" duration="2494000" />
+      <workItem from="1541888890179" duration="599000" />
     </task>
     <task id="LOCAL-00017" summary="...">
       <created>1537717570863</created>
@@ -797,17 +791,24 @@
       <option name="project" value="LOCAL" />
       <updated>1541180450849</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="latest version...">
+      <created>1541879186163</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1541879186163</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="133902000" />
+    <option name="totallyTimeSpent" value="135159000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="341" y="250" width="1742" height="1268" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4991708" visible="true" weight="0.27444053" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4991708" visible="true" weight="0.2779741" />
       <window_info id="Structure" order="1" sideWeight="0.50082916" side_tool="true" weight="0.24967062" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -883,6 +884,12 @@
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/electron/messenger/Messenger.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/logger/SentryLogger.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/logger/SentryLogger.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Latch.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Latch.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/ResolvablePromise.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/ResolvablePromise.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/ResolvablePromiseTest.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/ResolvablePromiseTest.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/highlights/area/view/AreaHighlightView.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/highlights/area/view/AreaHighlightView.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/pagemarks/controller/interact/drag/LineAdjustment.js.map" />
@@ -1503,7 +1510,6 @@
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/ArgsParser.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/KeyValueMapping.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/SetsTest.js" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/ResolvablePromiseTest.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Platforms.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/ExecutionTimer.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/ReducersTest.js.map" />
@@ -1517,7 +1523,6 @@
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/FilenamesTest.js.map" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/KeyValueMapping.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/FilesTest.js.map" />
-        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/ResolvablePromiseTest.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/FunctionsTest.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/PathsTest.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Files.js.map" />
@@ -2855,6 +2860,48 @@
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/popup/TriggerPopupEvent.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/popup/MouseEventReferenceObject.js" />
         <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/ui/popup/PointReferenceObject.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/LatchTest.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/LatchTest.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Latches.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/Latches.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/datastore/CompositeFirebaseDatastore.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/datastore/CompositeFirebaseDatastore.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/datastore/DatastoreMutation.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/datastore/DatastoreMutation.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/datastore/DatastoreMutations.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/datastore/DatastoreMutations.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/firebase-write-semantics/content.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/firebase-write-semantics/content.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/firebase-write-semantics/index.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/firebase-write-semantics/index.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/firebase-write-semantics/spec.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/firebase-write-semantics/spec.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/firestore/FirebaseTester.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/firestore/FirebaseTester.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/firebase-cloud-aware-datastore/spec.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/firebase-cloud-aware-datastore/spec.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/firebase-cloud-aware-datastore/content.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/firebase-cloud-aware-datastore/content.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/firebase-cloud-aware-datastore/index.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/firebase-cloud-aware-datastore/index.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/ResolveablePromise.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/util/ResolveablePromise.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/webview-test/preload.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/webview-test/preload.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/capture/renderer/CapturePreload.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/capture/renderer/CapturePreload.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/metadata/UUID.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/metadata/UUID.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/metadata/UUIDs.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/metadata/UUIDs.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/metadata/UUIDsTest.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/js/metadata/UUIDsTest.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/WhatsNewContent.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/WhatsNewContent.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/EmbeddedImages.js" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/apps/repository/js/EmbeddedImages.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/doc-info-advertisements/testing.js.map" />
+        <option value="$PROJECT_DIR$/../polar-bookshelf/web/spectron/doc-info-advertisements/testing.js" />
       </list>
     </option>
   </component>
@@ -2874,7 +2921,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="this is better for now..." />
     <MESSAGE value="Fixed annotation section..." />
     <MESSAGE value="download page..." />
     <MESSAGE value="windows instructions.." />
@@ -2899,7 +2945,8 @@
     <MESSAGE value="updated downloads..." />
     <MESSAGE value="version update..." />
     <MESSAGE value="..." />
-    <option name="LAST_COMMIT_MESSAGE" value="..." />
+    <MESSAGE value="latest version..." />
+    <option name="LAST_COMMIT_MESSAGE" value="latest version..." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/screenshots/annotations.png">
@@ -3173,8 +3220,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/download.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="95" lean-forward="true" selection-start-line="1" selection-start-column="95" selection-end-line="1" selection-end-column="95" />
+        <state relative-caret-position="68">
+          <caret line="4" column="62" lean-forward="true" selection-start-line="4" selection-start-column="62" selection-end-line="4" selection-end-column="62" />
         </state>
       </provider>
     </entry>
