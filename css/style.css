@@ -123,3 +123,14 @@ figcaption {
     /*color: #000000;*/
     font-size: 16px;
 }
+
+.intro {
+    /*max-width: 900px;*/
+    margin: auto;
+}
+
+.subtitle {
+    font-size: 18px;
+    padding-top: 20px;
+    text-justify: auto;
+}
