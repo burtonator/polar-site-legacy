@@ -24,7 +24,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f24d8ef-44fb-4fe5-b629-6a67a48a57be" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -90,26 +89,26 @@
           <entry key="Bash" value="3" />
           <entry key="css" value="584" />
           <entry key="hbs" value="20" />
-          <entry key="html" value="11698" />
+          <entry key="html" value="11818" />
           <entry key="j2" value="23" />
           <entry key="js" value="458" />
           <entry key="json" value="2" />
           <entry key="md" value="2358" />
           <entry key="mustache" value="248" />
           <entry key="sh" value="331" />
-          <entry key="txt" value="2072" />
+          <entry key="txt" value="2096" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Bash" value="334" />
           <entry key="CSS" value="584" />
-          <entry key="HTML" value="11718" />
+          <entry key="HTML" value="11838" />
           <entry key="Handlebars/Mustache" value="248" />
           <entry key="JSON" value="2" />
           <entry key="JavaScript" value="458" />
           <entry key="Markdown" value="2358" />
-          <entry key="PLAIN_TEXT" value="2095" />
+          <entry key="PLAIN_TEXT" value="2119" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -145,8 +144,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="875">
-              <caret line="316" column="27" selection-start-line="316" selection-start-column="27" selection-end-line="316" selection-end-column="27" />
+            <state relative-caret-position="153">
+              <caret line="132" column="28" lean-forward="true" selection-start-line="132" selection-start-column="28" selection-end-line="132" selection-end-column="28" />
               <folding>
                 <element signature="n#style#0;n#b#3;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -227,9 +226,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>index.html</find>
-      <find>1.0.1</find>
-      <find>discord</find>
       <find>jump</find>
       <find>POLAR</find>
       <find>logo</find>
@@ -257,6 +253,9 @@
       <find>Captured</find>
       <find>polar allows</find>
       <find>allows you</find>
+      <find>side</find>
+      <find>youtube</find>
+      <find>png</find>
     </findStrings>
     <replaceStrings>
       <replace>draggable=&quot;false&quot;</replace>
@@ -335,6 +334,12 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
@@ -344,8 +349,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="937" />
-    <option name="y" value="133" />
+    <option name="x" value="873" />
+    <option name="y" value="79" />
     <option name="width" value="1440" />
     <option name="height" value="1467" />
   </component>
@@ -460,14 +465,7 @@
       <workItem from="1542669211724" duration="3473000" />
       <workItem from="1542985638023" duration="7350000" />
       <workItem from="1544286914372" duration="1989000" />
-      <workItem from="1544485595334" duration="6651000" />
-    </task>
-    <task id="LOCAL-00022" summary="...">
-      <created>1537890509421</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1537890509421</updated>
+      <workItem from="1544485595334" duration="10279000" />
     </task>
     <task id="LOCAL-00023" summary="new image on the front page so it loads faster...">
       <created>1537904692303</created>
@@ -805,17 +803,24 @@
       <option name="project" value="LOCAL" />
       <updated>1544806153309</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="docs about cloud sync...">
+      <created>1544909280188</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1544909280188</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="158741000" />
+    <option name="totallyTimeSpent" value="162369000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="937" y="133" width="1440" height="1467" extended-state="0" />
+    <frame x="873" y="79" width="1440" height="1467" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4991708" visible="true" weight="0.35959885" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4991708" visible="true" weight="0.35959885" />
       <window_info id="Structure" order="1" sideWeight="0.50082916" side_tool="true" weight="0.24967062" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -842,7 +847,7 @@
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="SciView" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.3295129" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4991708" visible="true" weight="0.25677267" />
@@ -1996,7 +2001,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="mac links..." />
     <MESSAGE value="downloads page should be ready.." />
     <MESSAGE value="working on a subscribe form.. going to rework this entire thing as a jinja2 template..." />
     <MESSAGE value="another major feature explained..." />
@@ -2021,7 +2025,8 @@
     <MESSAGE value="new point release..." />
     <MESSAGE value="better intro..." />
     <MESSAGE value="make 1.5.0 the default download..." />
-    <option name="LAST_COMMIT_MESSAGE" value="make 1.5.0 the default download..." />
+    <MESSAGE value="docs about cloud sync..." />
+    <option name="LAST_COMMIT_MESSAGE" value="docs about cloud sync..." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/screenshots/area-highlight.png">
@@ -2301,8 +2306,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="875">
-          <caret line="316" column="27" selection-start-line="316" selection-start-column="27" selection-end-line="316" selection-end-column="27" />
+        <state relative-caret-position="153">
+          <caret line="132" column="28" lean-forward="true" selection-start-line="132" selection-start-column="28" selection-end-line="132" selection-end-column="28" />
           <folding>
             <element signature="n#style#0;n#b#3;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
